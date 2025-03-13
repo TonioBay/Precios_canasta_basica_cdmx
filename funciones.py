@@ -7,12 +7,12 @@ def fecha(pdf,n_pagina):
     """
     Devuelve la fecha de una pagina en formato datetime
     """
-    locale.setlocale(locale.LC_TIME,'es_ES.UTF-8')
+    locale.setlocale(locale.LC_TIME,'es_ES.UTF-8') # formato de fecha en español
     pdf_page = pdf[n_pagina] #Lectura de la pagina
     area = (306,0,596,150) #Área donde se encuentra la fecha en el pdf (x0 , y0 , x1 , x2)
     fecha_texto = pdf_page.get_text("text", clip = area)
     fecha_format = fecha_texto.replace(' ','').replace('de','-').strip()
-    fecha = datetime.strptime(fecha_format,'%d-%B-%Y').date()
+    fecha = datetime.strptime(fecha_format,'%d-%B-%Y').date() #String a datetime
     return fecha
 
 def df_list(df):
