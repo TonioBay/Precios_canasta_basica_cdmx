@@ -1,20 +1,31 @@
 import tabula
 import pandas as pd
 from decouple import config
+import fitz
 
+#Extracción de tablas
 ruta_pdf = r'File\ano-2024.pdf'
 tables = tabula.read_pdf(
 ruta_pdf,
-pages = '2-3',
+pages = '3',
 multiple_tables = True,
 lattice= True,
 stream = True,
 guess = False,
 pandas_options= {"header": None}
 )
+## Extracción de fecha por pagina
+n_pagina= 0
+pdf = fitz.open(ruta_pdf)
+pdf_page = pdf[n_pagina] #Lectura de la pagina
+area = (306,0,596,150) #Área donde se encuentra la fecha en el pdf (x0 , y0 , x1 , x2)
+fecha_texto = pdf_page.get_text("text", clip = area)
 
-df = tables[1].dropna(axis = 0, how = 'all')
+
+
+df = tables[n_pagina].dropna(axis = 0, how = 'all')
 df = df.drop(range(0,2))
+
 
 def df_list(df):
     """
@@ -46,5 +57,5 @@ def df_list(df):
 dfs = df_list(df)      
 
 df_final = pd.concat(dfs, ignore_index= True)
-     
+df_final['Fecha'] = fecha_texto #Columna con la fecha de la pagina
 print(df_final)
