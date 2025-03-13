@@ -1,14 +1,19 @@
 import pandas as pd
 import fitz
+import locale
+from datetime import datetime
 
 def fecha(pdf,n_pagina):
     """
     Devuelve la fecha de una pagina en formato datetime
     """
+    locale.setlocale(locale.LC_TIME,'es_ES.UTF-8')
     pdf_page = pdf[n_pagina] #Lectura de la pagina
     area = (306,0,596,150) #Área donde se encuentra la fecha en el pdf (x0 , y0 , x1 , x2)
     fecha_texto = pdf_page.get_text("text", clip = area)
-    return fecha_texto
+    fecha_format = fecha_texto.replace(' ','').replace('de','-').strip()
+    fecha = datetime.strptime(fecha_format,'%d-%B-%Y').date()
+    return fecha
 
 def df_list(df):
     """
