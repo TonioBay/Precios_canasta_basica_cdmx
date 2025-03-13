@@ -2,6 +2,7 @@ import pandas as pd
 import fitz
 import locale
 from datetime import datetime
+import numpy as np
 
 def fecha(pdf,n_pagina):
     """
@@ -28,7 +29,11 @@ def df_list(df):
         subdf = pd.DataFrame()
         subdf['Producto'] = df[0] #Columna con el tipo de producto
         if n < 7: # En estas columnas se tiene el dato del precio y la sucursal en la misma casilla, se separa esta columna en dos con su valor correspondiente
-            subdf[['Precio','Sucursal']] =df[n].str.split(r'[ \r]', n = 1, expand = True) 
+            try:
+                subdf[['Precio','Sucursal']] =df[n].str.split(r'[ \r]', n = 1, expand = True) 
+            except: 
+                subdf['Precio'] =df[n]
+                subdf['Sucursal'] = np.nan
         else:
             subdf['Precio'] = df[n] 
             subdf['Sucursal'] = 'CEDA' # Las columnas de CEDA solo tienen el dato del precio
