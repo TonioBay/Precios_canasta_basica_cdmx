@@ -25,7 +25,6 @@ jobs:
       run: |
         pip install tabula-py
         pip install pandas
-        pip install python-decouple
         pip install --upgrade pymupdf
 
     - name: Run main.py

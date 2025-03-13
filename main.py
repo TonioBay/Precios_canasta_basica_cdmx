@@ -1,9 +1,10 @@
 import tabula
+import os
 import pandas as pd
 import fitz
 
 #Extracción de tablas
-ruta_pdf = r'File\ano-2024.pdf'
+ruta_pdf = os.path.join('File', 'ano-2024.pdf')
 tables = tabula.read_pdf(
 ruta_pdf,
 pages = '3',
