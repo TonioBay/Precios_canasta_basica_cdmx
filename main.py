@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import fitz
 from funciones import fecha, df_list
+from sqlalchemy import create_engine
 
 #Extracción de tablas
 ruta_pdf = os.path.join('File', 'ano-2024.pdf')
@@ -32,6 +33,12 @@ for n_pagina in  range(len(tables)):
     df_page['Fecha'] = fecha1 #Columna con la fecha de la pagina
     df_page['Sucursal'] = df_page['Sucursal'].str.replace(r'[\r\n]', ' ', regex=True) # remplazar valores en columna 'Sucursal'
     df_page['Precio'] = df_page['Precio'].str.replace('$','').astype(float) # Eliminación del simbolo en la columna 'Precio' y transformación de string a float
+    df_page = df_page[['Fecha', 'Canal de abasto', 'Sucursal', 'Tipo de costo', 'Producto','Precio']]
     df_final = pd.concat([df_final,df_page], ignore_index= True)
     print(f'Página {n_pagina + 1} procesada')
-print(df_final)
+
+engine = create_engine("sqlite:///canasta_basica.db")
+df_final.to_sql("canasta_basica", engine, if_exists= "append", index = False)
+engine.dispose()
+df_final.to_csv('canasta_basica.csv')
+print('Carga terminada')
