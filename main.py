@@ -1,6 +1,5 @@
 import tabula
 import pandas as pd
-from decouple import config
 import fitz
 
 #Extracción de tablas
