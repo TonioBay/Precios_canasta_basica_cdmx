@@ -23,7 +23,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install tabula
+        pip install tabula-py
         pip install pandas
         pip install python-decouple
 
