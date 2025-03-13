@@ -2,7 +2,7 @@ import tabula
 import pandas as pd
 from decouple import config
 
-ruta_pdf = config('RUTA_PDF')
+ruta_pdf = r'File\ano-2024.pdf'
 tables = tabula.read_pdf(
 ruta_pdf,
 pages = '2-3',
@@ -34,6 +34,8 @@ def df_list(df):
             tipo_costo = 'Bajo'
         else:
             tipo_costo = 'alto'
+        
+        
         subdf['Tipo de costo'] = tipo_costo
         n +=1
         #print(subdf)
