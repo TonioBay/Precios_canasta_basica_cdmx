@@ -1,0 +1,37 @@
+name: Run main.py
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  run-main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install tabula
+        pip install pandas
+        pip install python-decouple
+
+    - name: Run main.py
+      run: python main.py
+
+    #- name: Upload output
+    # uses: actions/upload-artifact@v4
+    #  with:
+    #    name: preciosCanastaBasica
+    #   path: preciosCanastaBasica.txt
