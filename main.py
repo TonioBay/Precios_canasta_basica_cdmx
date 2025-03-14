@@ -9,7 +9,7 @@ from sqlalchemy import create_engine
 ruta_pdf = os.path.join('File', 'ano-2024.pdf')
 tables = tabula.read_pdf(
 ruta_pdf,
-pages = '1-9',
+pages = 'all',
 multiple_tables = True,
 lattice= True,
 stream = True,
@@ -40,5 +40,5 @@ for n_pagina in  range(len(tables)):
 engine = create_engine("sqlite:///canasta_basica.db")
 df_final.to_sql("canasta_basica", engine, if_exists= "append", index = False)
 engine.dispose()
-df_final.to_csv('canasta_basica.csv')
+df_final.to_csv('canasta_basica.csv', index = False , encoding='latin1')
 print('Carga terminada')
