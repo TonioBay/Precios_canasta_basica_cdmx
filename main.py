@@ -18,17 +18,12 @@ guess = False,
 pandas_options= {"header": None}
 )
 df_final = pd.DataFrame()
-fecha_ant = ''
-paginas_error =[]
 for n_pagina in  range(len(tables)):
     ## Extracción de fecha por pagina
     
     pdf = fitz.open(ruta_pdf)
-    try:
-        fecha1 = fecha(pdf,n_pagina)
-    except:
-        fecha1 = np.nan
-        paginas_error.append(n_pagina +1)
+    fecha1 = fecha(pdf,n_pagina)
+    # Limpieza del dataframe
 
     df = tables[n_pagina].dropna(axis = 0, how = 'all').reset_index(drop = True)
     df = df.drop(range(0,2)).reset_index(drop = True)
