@@ -10,7 +10,16 @@ def fecha(pdf,n_pagina):
     """
     locale.setlocale(locale.LC_TIME,'es_ES.UTF-8') # formato de fecha en español
     pdf_page = pdf[n_pagina] #Lectura de la pagina
-    area = (306,0,596,150) #Área donde se encuentra la fecha en el pdf (x0 , y0 , x1 , x2)
+    
+    if n_pagina < 84:
+        x0 , y0 , x1, y1 = 306,0,596,150
+    elif n_pagina < 580 :
+        x0 , y0 , x1, y1 = 362,0,596,175
+    elif n_pagina < 582:
+        x0 , y0 , x1, y1 = 362,0,596,121
+    else:
+        x0 , y0 , x1, y1 = 362,0,596,134        
+    area = (x0 , y0 , x1, y1) #Área donde se encuentra la fecha en el pdf (x0 , y0 , x1 , x2)
     fecha_texto = pdf_page.get_text("text", clip = area)
     fecha_format = fecha_texto.replace(' ','').replace('de','-').strip()
     fecha = datetime.strptime(fecha_format,'%d-%B-%Y').date() #String a datetime
