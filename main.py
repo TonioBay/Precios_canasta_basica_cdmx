@@ -17,7 +17,7 @@ with pdfplumber.open(ruta_pdf) as data:
       "horizontal_strategy": "lines",
       "intersection_x_tolerance": 3,
       "intersection_y_tolerance": 3,
-      "snap_y_tolerance" : 5
+      "snap_y_tolerance" : 6.4
       })
       if tables_on_page:
          for table in tables_on_page:
@@ -31,9 +31,10 @@ for n_pagina in  range(len(tables)):
     # Limpieza del dataframe
     df = tables[n_pagina].dropna(axis = 0, how = 'all').reset_index(drop = True)
     if n_pagina < 678:
-        df = df.drop(range(0,2)).reset_index(drop = True)
+     df = df.drop(range(0,2)).reset_index(drop = True)
     else:
-        df = df.drop(range(0,5)).reset_index(drop = True)
+     df = df.drop(range(0,3)).reset_index(drop = True)
+
     ## Union de dfs por pagina
     dfs = df_list(df)      
     df_page = pd.concat(dfs, ignore_index= True)
@@ -44,7 +45,6 @@ for n_pagina in  range(len(tables)):
             dia += 1
     except: 
         print(f'Página {n_pagina +1} sin datos')
-        dia += 1
     year = '2024'
     dia_str = str(dia)
     dia_str.rjust(3 + len(dia_str), '0')

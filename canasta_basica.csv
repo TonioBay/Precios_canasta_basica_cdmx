@@ -79712,15 +79712,13 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 712,11-27-2024,CEDA,CEDA,Alto,Tomate verde,
 712,11-27-2024,CEDA,CEDA,Alto,Zanahoria mediana,9.00
 713,11-28-2024,Tienda de autoservicio,Chedraui,Bajo,Aceite Mixto,27.90
-713,11-28-2024,Tienda de autoservicio,,Bajo,,
 713,11-28-2024,Tienda de autoservicio,Wal-mart,Bajo,Arroz largo,17.00
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Azúcar Estándar,29.00
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Harina de Trigo,13.90
 713,11-28-2024,Tienda de autoservicio,Chedraui,Bajo,Frijol Flor de Mayo,39.50
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Frijol Negro,26.10
 713,11-28-2024,Tienda de autoservicio,Wal-mart,Bajo,Huevo Blanco,51.00
-713,11-28-2024,Tienda de autoservicio,,Bajo,Carne Molida,89.90
-713,11-28-2024,Tienda de autoservicio,,Bajo,Sirloin 90-10,Chedraui
+713,11-28-2024,Tienda de autoservicio,Chedraui,Bajo,Carne Molida Sirloin 90-10,89.90
 713,11-28-2024,Tienda de autoservicio,Chedraui,Bajo,Bistec Diezmillo de Res,159.00
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Aguacate Hass,69.90
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Limón con semilla,15.90
@@ -79743,15 +79741,13 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Pepino,24.90
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Tomate verde,46.90
 713,11-28-2024,Tienda de autoservicio,Wal-mart,Alto,Aceite Mixto,30.00
-713,11-28-2024,Tienda de autoservicio,,Alto,,
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Arroz largo,27.50
 713,11-28-2024,Tienda de autoservicio,Chedraui,Alto,Azúcar Estándar,30.00
 713,11-28-2024,Tienda de autoservicio,Chedraui,Alto,Harina de Trigo,18.00
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Frijol Flor de Mayo,46.90
 713,11-28-2024,Tienda de autoservicio,Chedraui,Alto,Frijol Negro,32.50
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Huevo Blanco,60.00
-713,11-28-2024,Tienda de autoservicio,Comercial,Alto,Carne Molida,215.00
-713,11-28-2024,Tienda de autoservicio,,Alto,Sirloin 90-10,Mexicana
+713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Carne Molida Sirloin 90-10,215.00
 713,11-28-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Bistec Diezmillo de Res,206.50
 713,11-28-2024,Tienda de autoservicio,Chedraui,Alto,Aguacate Hass,89.00
 713,11-28-2024,Tienda de autoservicio,Wal-mart,Alto,Limón con semilla,34.90
@@ -79773,16 +79769,14 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 713,11-28-2024,Tienda de autoservicio,Wal-mart,Alto,Papa alpha,54.00
 713,11-28-2024,Tienda de autoservicio,Wal-mart,Alto,Pepino,39.90
 713,11-28-2024,Tienda de autoservicio,Chedraui,Alto,Tomate verde,59.00
-713,11-28-2024,Mercados sobreruedas,Ruta,Bajo,Aceite Mixto,45.00
-713,11-28-2024,Mercados sobreruedas,,Bajo,,07
+713,11-28-2024,Mercados sobreruedas,Ruta 07,Bajo,Aceite Mixto,45.00
 713,11-28-2024,Mercados sobreruedas,Ruta 02,Bajo,Arroz largo,24.00
 713,11-28-2024,Mercados sobreruedas,Ruta 07,Bajo,Azúcar Estándar,21.00
 713,11-28-2024,Mercados sobreruedas,,Bajo,Harina de Trigo,
 713,11-28-2024,Mercados sobreruedas,Ruta 07,Bajo,Frijol Flor de Mayo,54.00
 713,11-28-2024,Mercados sobreruedas,Ruta 02,Bajo,Frijol Negro,46.00
 713,11-28-2024,Mercados sobreruedas,Ruta 06,Bajo,Huevo Blanco,45.00
-713,11-28-2024,Mercados sobreruedas,Ruta,Bajo,Carne Molida,200.00
-713,11-28-2024,Mercados sobreruedas,,Bajo,Sirloin 90-10,06
+713,11-28-2024,Mercados sobreruedas,Ruta 06,Bajo,Carne Molida Sirloin 90-10,200.00
 713,11-28-2024,Mercados sobreruedas,Ruta 06,Bajo,Bistec Diezmillo de Res,200.00
 713,11-28-2024,Mercados sobreruedas,Ruta 073,Bajo,Aguacate Hass,70.00
 713,11-28-2024,Mercados sobreruedas,Ruta 02,Bajo,Limón con semilla,20.00
@@ -79804,16 +79798,14 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 713,11-28-2024,Mercados sobreruedas,Ruta 07,Bajo,Papa alpha,22.00
 713,11-28-2024,Mercados sobreruedas,Ruta 07,Bajo,Pepino,20.00
 713,11-28-2024,Mercados sobreruedas,Ruta 02,Bajo,Tomate verde,18.00
-713,11-28-2024,Mercados sobreruedas,Ruta,Alto,Aceite Mixto,46.00
-713,11-28-2024,Mercados sobreruedas,,Alto,,02
+713,11-28-2024,Mercados sobreruedas,Ruta 02,Alto,Aceite Mixto,46.00
 713,11-28-2024,Mercados sobreruedas,Ruta 07,Alto,Arroz largo,32.00
 713,11-28-2024,Mercados sobreruedas,Ruta 02,Alto,Azúcar Estándar,24.00
 713,11-28-2024,Mercados sobreruedas,,Alto,Harina de Trigo,
 713,11-28-2024,Mercados sobreruedas,Ruta 02,Alto,Frijol Flor de Mayo,60.00
 713,11-28-2024,Mercados sobreruedas,Ruta 07,Alto,Frijol Negro,50.00
 713,11-28-2024,Mercados sobreruedas,Ruta 02,Alto,Huevo Blanco,48.00
-713,11-28-2024,Mercados sobreruedas,,Alto,Carne Molida,220.00
-713,11-28-2024,Mercados sobreruedas,02,Alto,Sirloin 90-10,Ruta
+713,11-28-2024,Mercados sobreruedas,Ruta 02,Alto,Carne Molida Sirloin 90-10,220.00
 713,11-28-2024,Mercados sobreruedas,Ruta 02,Alto,Bistec Diezmillo de Res,220.00
 713,11-28-2024,Mercados sobreruedas,Ruta 02,Alto,Aguacate Hass,90.00
 713,11-28-2024,Mercados sobreruedas,Ruta 06,Alto,Limón con semilla,30.00
@@ -79836,15 +79828,13 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 713,11-28-2024,Mercados sobreruedas,Ruta 06,Alto,Pepino,27.00
 713,11-28-2024,Mercados sobreruedas,Ruta 07,Alto,Tomate verde,25.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Aceite Mixto,52.00
-713,11-28-2024,Mercados publicos,,Bajo,,
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Arroz largo,25.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Azúcar Estándar,30.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Harina de Trigo,28.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Frijol Flor de Mayo,48.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Frijol Negro,45.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Huevo Blanco,42.00
-713,11-28-2024,Mercados publicos,Milpa,Bajo,Carne Molida,210.00
-713,11-28-2024,Mercados publicos,,Bajo,Sirloin 90-10,Alta
+713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Carne Molida Sirloin 90-10,210.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Bistec Diezmillo de Res,200.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Aguacate Hass,60.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Limón con semilla,28.00
@@ -79866,16 +79856,14 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Papa alpha,26.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Pepino,34.00
 713,11-28-2024,Mercados publicos,Milpa Alta,Bajo,Tomate verde,36.00
-713,11-28-2024,Mercados publicos,Victoria,Alto,Aceite Mixto,52.00
-713,11-28-2024,Mercados publicos,las Democracias,Alto,,de
+713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Aceite Mixto,52.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Arroz largo,28.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Azúcar Estándar,34.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Harina de Trigo,28.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Frijol Flor de Mayo,48.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Frijol Negro,45.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Huevo Blanco,42.00
-713,11-28-2024,Mercados publicos,Victoria de,Alto,Carne Molida,210.00
-713,11-28-2024,Mercados publicos,Democracias,Alto,Sirloin 90-10,las
+713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Carne Molida Sirloin 90-10,210.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Bistec Diezmillo de Res,200.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Aguacate Hass,60.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Limón con semilla,28.00
@@ -79898,15 +79886,13 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Pepino,34.00
 713,11-28-2024,Mercados publicos,Victoria de las Democracias,Alto,Tomate verde,36.00
 713,11-28-2024,CEDA,CEDA,Bajo,Aceite Mixto,33.46
-713,11-28-2024,CEDA,CEDA,Bajo,,
 713,11-28-2024,CEDA,CEDA,Bajo,Arroz largo,18.00
 713,11-28-2024,CEDA,CEDA,Bajo,Azúcar Estándar,20.00
 713,11-28-2024,CEDA,CEDA,Bajo,Harina de Trigo,
 713,11-28-2024,CEDA,CEDA,Bajo,Frijol Flor de Mayo,
 713,11-28-2024,CEDA,CEDA,Bajo,Frijol Negro,25.00
 713,11-28-2024,CEDA,CEDA,Bajo,Huevo Blanco,43.00
-713,11-28-2024,CEDA,CEDA,Bajo,Carne Molida,
-713,11-28-2024,CEDA,CEDA,Bajo,Sirloin 90-10,
+713,11-28-2024,CEDA,CEDA,Bajo,Carne Molida Sirloin 90-10,
 713,11-28-2024,CEDA,CEDA,Bajo,Bistec Diezmillo de Res,155.00
 713,11-28-2024,CEDA,CEDA,Bajo,Aguacate Hass,
 713,11-28-2024,CEDA,CEDA,Bajo,Limón con semilla,10.00
@@ -79929,15 +79915,13 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 713,11-28-2024,CEDA,CEDA,Bajo,Pepino,
 713,11-28-2024,CEDA,CEDA,Bajo,Tomate verde,
 713,11-28-2024,CEDA,CEDA,Alto,Aceite Mixto,40.00
-713,11-28-2024,CEDA,CEDA,Alto,,
 713,11-28-2024,CEDA,CEDA,Alto,Arroz largo,23.00
 713,11-28-2024,CEDA,CEDA,Alto,Azúcar Estándar,23.00
 713,11-28-2024,CEDA,CEDA,Alto,Harina de Trigo,
 713,11-28-2024,CEDA,CEDA,Alto,Frijol Flor de Mayo,
 713,11-28-2024,CEDA,CEDA,Alto,Frijol Negro,39.00
 713,11-28-2024,CEDA,CEDA,Alto,Huevo Blanco,45.00
-713,11-28-2024,CEDA,CEDA,Alto,Carne Molida,
-713,11-28-2024,CEDA,CEDA,Alto,Sirloin 90-10,
+713,11-28-2024,CEDA,CEDA,Alto,Carne Molida Sirloin 90-10,
 713,11-28-2024,CEDA,CEDA,Alto,Bistec Diezmillo de Res,163.00
 713,11-28-2024,CEDA,CEDA,Alto,Aguacate Hass,
 713,11-28-2024,CEDA,CEDA,Alto,Limón con semilla,14.00
@@ -83855,8 +83839,7 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 747,12-15-2024,Tienda de autoservicio,Wal-mart,Bajo,Frijol Negro,29.00
 747,12-15-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Huevo Blanco,55.00
 747,12-15-2024,Tienda de autoservicio,Chedraui,Bajo,Carne Molida Sirloin 90-10,117.00.00
-747,12-15-2024,Tienda de autoservicio,,Bajo,Bistec Diezmillo de,
-747,12-15-2024,Tienda de autoservicio,Chedraui,Bajo,Res,159.00
+747,12-15-2024,Tienda de autoservicio,Chedraui,Bajo,Bistec Diezmillo de Res,159.00
 747,12-15-2024,Tienda de autoservicio,Chedraui,Bajo,Aguacate Hass,39.90
 747,12-15-2024,Tienda de autoservicio,Chedraui,Bajo,Limón con semilla,24.90
 747,12-15-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Guayaba,49.90
@@ -83886,8 +83869,7 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 747,12-15-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Frijol Negro,36.50
 747,12-15-2024,Tienda de autoservicio,Chedraui,Alto,Huevo Blanco,55.00
 747,12-15-2024,Tienda de autoservicio,Wal-mart,Alto,Carne Molida Sirloin 90-10,215.00
-747,12-15-2024,Tienda de autoservicio,Comercial,Alto,Bistec Diezmillo de,206.50
-747,12-15-2024,Tienda de autoservicio,,Alto,Res,Mexicana
+747,12-15-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Bistec Diezmillo de Res,206.50
 747,12-15-2024,Tienda de autoservicio,Wal-mart,Alto,Aguacate Hass,89.00
 747,12-15-2024,Tienda de autoservicio,Wal-mart,Alto,Limón con semilla,34.90
 747,12-15-2024,Tienda de autoservicio,Wal-mart,Alto,Guayaba,60.00
@@ -83917,8 +83899,7 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 747,12-15-2024,Mercados sobreruedas,,Bajo,Frijol Negro,
 747,12-15-2024,Mercados sobreruedas,,Bajo,Huevo Blanco,
 747,12-15-2024,Mercados sobreruedas,,Bajo,Carne Molida Sirloin 90-10,
-747,12-15-2024,Mercados sobreruedas,,Bajo,Bistec Diezmillo de,
-747,12-15-2024,Mercados sobreruedas,,Bajo,Res,
+747,12-15-2024,Mercados sobreruedas,,Bajo,Bistec Diezmillo de Res,
 747,12-15-2024,Mercados sobreruedas,,Bajo,Aguacate Hass,
 747,12-15-2024,Mercados sobreruedas,,Bajo,Limón con semilla,
 747,12-15-2024,Mercados sobreruedas,,Bajo,Guayaba,
@@ -83948,8 +83929,7 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 747,12-15-2024,Mercados sobreruedas,,Alto,Frijol Negro,
 747,12-15-2024,Mercados sobreruedas,,Alto,Huevo Blanco,
 747,12-15-2024,Mercados sobreruedas,,Alto,Carne Molida Sirloin 90-10,
-747,12-15-2024,Mercados sobreruedas,,Alto,Bistec Diezmillo de,
-747,12-15-2024,Mercados sobreruedas,,Alto,Res,
+747,12-15-2024,Mercados sobreruedas,,Alto,Bistec Diezmillo de Res,
 747,12-15-2024,Mercados sobreruedas,,Alto,Aguacate Hass,
 747,12-15-2024,Mercados sobreruedas,,Alto,Limón con semilla,
 747,12-15-2024,Mercados sobreruedas,,Alto,Guayaba,
@@ -83979,8 +83959,7 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 747,12-15-2024,Mercados publicos,Clavería,Bajo,Frijol Negro,44.00
 747,12-15-2024,Mercados publicos,Benito Juárez,Bajo,Huevo Blanco,42.00
 747,12-15-2024,Mercados publicos,Río Blanco,Bajo,Carne Molida Sirloin 90-10,190.00
-747,12-15-2024,Mercados publicos,Benito,Bajo,Bistec Diezmillo de,170.00
-747,12-15-2024,Mercados publicos,,Bajo,Res,Juárez
+747,12-15-2024,Mercados publicos,Benito Juárez,Bajo,Bistec Diezmillo de Res,170.00
 747,12-15-2024,Mercados publicos,Río Blanco,Bajo,Aguacate Hass,48.00
 747,12-15-2024,Mercados publicos,Benito Juárez,Bajo,Limón con semilla,20.00
 747,12-15-2024,Mercados publicos,Río Blanco,Bajo,Guayaba,30.00
@@ -84010,8 +83989,7 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 747,12-15-2024,Mercados publicos,Río Blanco,Alto,Frijol Negro,45.00
 747,12-15-2024,Mercados publicos,Clavería,Alto,Huevo Blanco,44.00
 747,12-15-2024,Mercados publicos,Clavería,Alto,Carne Molida Sirloin 90-10,210.00
-747,12-15-2024,Mercados publicos,,Alto,Bistec Diezmillo de,
-747,12-15-2024,Mercados publicos,Clavería,Alto,Res,205.00
+747,12-15-2024,Mercados publicos,Clavería,Alto,Bistec Diezmillo de Res,205.00
 747,12-15-2024,Mercados publicos,Clavería,Alto,Aguacate Hass,60.00
 747,12-15-2024,Mercados publicos,Río Blanco,Alto,Limón con semilla,28.00
 747,12-15-2024,Mercados publicos,Clavería,Alto,Guayaba,30.00
@@ -84041,8 +84019,7 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 747,12-15-2024,CEDA,CEDA,Bajo,Frijol Negro,25.00
 747,12-15-2024,CEDA,CEDA,Bajo,Huevo Blanco,44.00
 747,12-15-2024,CEDA,CEDA,Bajo,Carne Molida Sirloin 90-10,
-747,12-15-2024,CEDA,CEDA,Bajo,Bistec Diezmillo de,
-747,12-15-2024,CEDA,CEDA,Bajo,Res,150.00
+747,12-15-2024,CEDA,CEDA,Bajo,Bistec Diezmillo de Res,150.00
 747,12-15-2024,CEDA,CEDA,Bajo,Aguacate Hass,
 747,12-15-2024,CEDA,CEDA,Bajo,Limón con semilla,10.00
 747,12-15-2024,CEDA,CEDA,Bajo,Guayaba,
@@ -84072,8 +84049,7 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 747,12-15-2024,CEDA,CEDA,Alto,Frijol Negro,39.00
 747,12-15-2024,CEDA,CEDA,Alto,Huevo Blanco,45.00
 747,12-15-2024,CEDA,CEDA,Alto,Carne Molida Sirloin 90-10,
-747,12-15-2024,CEDA,CEDA,Alto,Bistec Diezmillo de,
-747,12-15-2024,CEDA,CEDA,Alto,Res,165.00
+747,12-15-2024,CEDA,CEDA,Alto,Bistec Diezmillo de Res,165.00
 747,12-15-2024,CEDA,CEDA,Alto,Aguacate Hass,
 747,12-15-2024,CEDA,CEDA,Alto,Limón con semilla,13.00
 747,12-15-2024,CEDA,CEDA,Alto,Guayaba,
@@ -84575,723 +84551,643 @@ Página,Fecha,Canal de abasto,Sucursal,Tipo de costo,Producto,Precio
 752,12-17-2024,CEDA,CEDA,Alto,Pepino,
 752,12-17-2024,CEDA,CEDA,Alto,Tomate verde,
 752,12-17-2024,CEDA,CEDA,Alto,Zanahoria mediana,6.00
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Aceite Mixto,28.50
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Bajo,Arroz largo,17.00
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Azúcar Estándar,18.90
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Harina de Trigo,15.90
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Frijol Flor de Mayo,46.90
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Frijol Negro,25.90
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Bajo,Huevo Blanco,55.00
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Bajo,Carne Molida Sirloin 90-10,89.00
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Bistec Diezmillo de Res,159.00
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Aguacate Hass,79.90
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Limón con semilla,29.50
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Guayaba,46.50
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Manzana Golden,49.50
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Manzana Starking,32.00
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Naranja mediana,19.50
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Bajo,Papaya maradol,57.00
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Piña,33.00
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Plátano,17.90
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Sandía,16.90
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Calabacita Italiana,45.50
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Chile poblano,54.50
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Chile serrano,44.90
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Cebolla bola,34.90
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Chayote sin espina,36.50
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Jitomate Saladette,27.50
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Lechuga romana,18.50
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Papa alpha,33.90
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Pepino,41.00
-753,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Tomate verde,49.00
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Aceite Mixto,30.00
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Arroz largo,27.50
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Azúcar Estándar,30.00
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Harina de Trigo,17.00
-753,12-18-2024,Tienda de autoservicio,Chedraui,Alto,Frijol Flor de Mayo,47.00
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Frijol Negro,29.50
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Huevo Blanco,62.00
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Carne Molida Sirloin 90-10,189.00
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Bistec Diezmillo de Res,206.50
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Aguacate Hass,89.90
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Limón con semilla,39.90
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Guayaba,60.00
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Golden,59.90
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Starking,39.50
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Naranja mediana,36.90
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Papaya maradol,59.90
-753,12-18-2024,Tienda de autoservicio,Chedraui,Alto,Piña,44.00
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Plátano,28.90
-753,12-18-2024,Tienda de autoservicio,Chedraui,Alto,Sandía,21.50
-753,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Calabacita Italiana,58.90
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Chile poblano,69.00
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Chile serrano,99.00
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Cebolla bola,66.00
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Chayote sin espina,44.90
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Jitomate Saladette,54.00
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Lechuga romana,29.90
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Papa alpha,54.00
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Pepino,46.90
-753,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Tomate verde,59.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Aceite Mixto,48.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Arroz largo,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Azúcar Estándar,25.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Harina de Trigo,24.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Frijol Flor de Mayo,65.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Frijol Negro,45.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Huevo Blanco,48.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Carne Molida Sirloin 90-10,198.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Bistec Diezmillo de Res,198.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Aguacate Hass,60.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Limón con semilla,20.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Guayaba,25.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Manzana Golden,40.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Manzana Starking,50.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Naranja mediana,25.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Papaya maradol,35.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Piña,40.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Plátano,20.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Sandía,20.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Calabacita Italiana,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Chile poblano,40.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Chile serrano,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Cebolla bola,24.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Chayote sin espina,20.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Jitomate Saladette,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Lechuga romana,20.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Papa alpha,25.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Pepino,25.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Tomate verde,24.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Aceite Mixto,52.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Arroz largo,40.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Azúcar Estándar,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Harina de Trigo,24.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Frijol Flor de Mayo,70.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Frijol Negro,60.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Huevo Blanco,50.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Carne Molida Sirloin 90-10,200.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Bistec Diezmillo de Res,200.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Aguacate Hass,80.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Limón con semilla,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Guayaba,35.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Manzana Golden,50.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Manzana Starking,50.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Naranja mediana,25.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Papaya maradol,50.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Piña,40.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Plátano,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Sandía,25.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Calabacita Italiana,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Chile poblano,50.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Chile serrano,50.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Cebolla bola,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Chayote sin espina,25.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Jitomate Saladette,30.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Lechuga romana,20.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Papa alpha,25.00
-753,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Pepino,32.00
-753,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Tomate verde,30.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Bajo,Aceite Mixto,50.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Bajo,Arroz largo,23.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Azúcar Estándar,30.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Harina de Trigo,28.00
-753,12-18-2024,Mercados publicos,Arenal,Bajo,Frijol Flor de Mayo,46.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Frijol Negro,42.00
-753,12-18-2024,Mercados publicos,Arenal,Bajo,Huevo Blanco,42.00
-753,12-18-2024,Mercados publicos,Arenal,Bajo,Carne Molida Sirloin 90-10,210.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Bajo,Bistec Diezmillo de Res,200.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Aguacate Hass,60.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Limón con semilla,22.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Guayaba,30.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Manzana Golden,50.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Bajo,Manzana Starking,50.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Naranja mediana,20.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Bajo,Papaya maradol,30.00
-753,12-18-2024,Mercados publicos,Arenal,Bajo,Piña,30.00
-753,12-18-2024,Mercados publicos,Arenal,Bajo,Plátano,20.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Sandía,20.00
-753,12-18-2024,Mercados publicos,Arenal,Bajo,Calabacita Italiana,25.00
-753,12-18-2024,Mercados publicos,Arenal,Bajo,Chile poblano,46.00
-753,12-18-2024,Mercados publicos,Arenal,Bajo,Chile serrano,40.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Cebolla bola,32.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Chayote sin espina,32.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Jitomate Saladette,30.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Lechuga romana,20.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Papa alpha,20.00
-753,12-18-2024,Mercados publicos,Arenal,Bajo,Pepino,30.00
-753,12-18-2024,Mercados publicos,Tláhuac,Bajo,Tomate verde,25.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Aceite Mixto,55.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Arroz largo,26.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Azúcar Estándar,30.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Harina de Trigo,28.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Alto,Frijol Flor de Mayo,48.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Alto,Frijol Negro,44.00
-753,12-18-2024,Mercados publicos,Tláhuac,Alto,Huevo Blanco,44.00
-753,12-18-2024,Mercados publicos,Tláhuac,Alto,Carne Molida Sirloin 90-10,215.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Bistec Diezmillo de Res,205.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Alto,Aguacate Hass,66.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Limón con semilla,28.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Guayaba,30.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Manzana Golden,50.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Manzana Starking,60.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Naranja mediana,20.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Papaya maradol,35.00
-753,12-18-2024,Mercados publicos,Tláhuac,Alto,Piña,35.00
-753,12-18-2024,Mercados publicos,Tláhuac,Alto,Plátano,22.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Sandía,20.00
-753,12-18-2024,Mercados publicos,Tláhuac,Alto,Calabacita Italiana,26.00
-753,12-18-2024,Mercados publicos,Tláhuac,Alto,Chile poblano,50.00
-753,12-18-2024,Mercados publicos,Tláhuac,Alto,Chile serrano,42.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Cebolla bola,32.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Chayote sin espina,32.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Alto,Jitomate Saladette,40.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Lechuga romana,20.00
-753,12-18-2024,Mercados publicos,Aragón 3ra Sección,Alto,Papa alpha,26.00
-753,12-18-2024,Mercados publicos,Tláhuac,Alto,Pepino,34.00
-753,12-18-2024,Mercados publicos,Arenal,Alto,Tomate verde,32.00
-753,12-18-2024,CEDA,CEDA,Bajo,Aceite Mixto,
-753,12-18-2024,CEDA,CEDA,Bajo,Arroz largo,
-753,12-18-2024,CEDA,CEDA,Bajo,Azúcar Estándar,
-753,12-18-2024,CEDA,CEDA,Bajo,Harina de Trigo,
-753,12-18-2024,CEDA,CEDA,Bajo,Frijol Flor de Mayo,
-753,12-18-2024,CEDA,CEDA,Bajo,Frijol Negro,
-753,12-18-2024,CEDA,CEDA,Bajo,Huevo Blanco,
-753,12-18-2024,CEDA,CEDA,Bajo,Carne Molida Sirloin 90-10,
-753,12-18-2024,CEDA,CEDA,Bajo,Bistec Diezmillo de Res,
-753,12-18-2024,CEDA,CEDA,Bajo,Aguacate Hass,
-753,12-18-2024,CEDA,CEDA,Bajo,Limón con semilla,
-753,12-18-2024,CEDA,CEDA,Bajo,Guayaba,
-753,12-18-2024,CEDA,CEDA,Bajo,Manzana Golden,
-753,12-18-2024,CEDA,CEDA,Bajo,Manzana Starking,
-753,12-18-2024,CEDA,CEDA,Bajo,Naranja mediana,
-753,12-18-2024,CEDA,CEDA,Bajo,Papaya maradol,
-753,12-18-2024,CEDA,CEDA,Bajo,Piña,
-753,12-18-2024,CEDA,CEDA,Bajo,Plátano,
-753,12-18-2024,CEDA,CEDA,Bajo,Sandía,
-753,12-18-2024,CEDA,CEDA,Bajo,Calabacita Italiana,
-753,12-18-2024,CEDA,CEDA,Bajo,Chile poblano,
-753,12-18-2024,CEDA,CEDA,Bajo,Chile serrano,
-753,12-18-2024,CEDA,CEDA,Bajo,Cebolla bola,
-753,12-18-2024,CEDA,CEDA,Bajo,Chayote sin espina,
-753,12-18-2024,CEDA,CEDA,Bajo,Jitomate Saladette,
-753,12-18-2024,CEDA,CEDA,Bajo,Lechuga romana,
-753,12-18-2024,CEDA,CEDA,Bajo,Papa alpha,
-753,12-18-2024,CEDA,CEDA,Bajo,Pepino,
-753,12-18-2024,CEDA,CEDA,Bajo,Tomate verde,
-753,12-18-2024,CEDA,CEDA,Alto,Aceite Mixto,
-753,12-18-2024,CEDA,CEDA,Alto,Arroz largo,
-753,12-18-2024,CEDA,CEDA,Alto,Azúcar Estándar,
-753,12-18-2024,CEDA,CEDA,Alto,Harina de Trigo,
-753,12-18-2024,CEDA,CEDA,Alto,Frijol Flor de Mayo,
-753,12-18-2024,CEDA,CEDA,Alto,Frijol Negro,
-753,12-18-2024,CEDA,CEDA,Alto,Huevo Blanco,
-753,12-18-2024,CEDA,CEDA,Alto,Carne Molida Sirloin 90-10,
-753,12-18-2024,CEDA,CEDA,Alto,Bistec Diezmillo de Res,
-753,12-18-2024,CEDA,CEDA,Alto,Aguacate Hass,
-753,12-18-2024,CEDA,CEDA,Alto,Limón con semilla,
-753,12-18-2024,CEDA,CEDA,Alto,Guayaba,
-753,12-18-2024,CEDA,CEDA,Alto,Manzana Golden,
-753,12-18-2024,CEDA,CEDA,Alto,Manzana Starking,
-753,12-18-2024,CEDA,CEDA,Alto,Naranja mediana,
-753,12-18-2024,CEDA,CEDA,Alto,Papaya maradol,
-753,12-18-2024,CEDA,CEDA,Alto,Piña,
-753,12-18-2024,CEDA,CEDA,Alto,Plátano,
-753,12-18-2024,CEDA,CEDA,Alto,Sandía,
-753,12-18-2024,CEDA,CEDA,Alto,Calabacita Italiana,
-753,12-18-2024,CEDA,CEDA,Alto,Chile poblano,
-753,12-18-2024,CEDA,CEDA,Alto,Chile serrano,
-753,12-18-2024,CEDA,CEDA,Alto,Cebolla bola,
-753,12-18-2024,CEDA,CEDA,Alto,Chayote sin espina,
-753,12-18-2024,CEDA,CEDA,Alto,Jitomate Saladette,
-753,12-18-2024,CEDA,CEDA,Alto,Lechuga romana,
-753,12-18-2024,CEDA,CEDA,Alto,Papa alpha,
-753,12-18-2024,CEDA,CEDA,Alto,Pepino,
-753,12-18-2024,CEDA,CEDA,Alto,Tomate verde,
-754,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Zanahoria mediana,18.90
-754,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Zanahoria mediana,29.90
-754,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Zanahoria mediana,16.00
-754,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Zanahoria mediana,20.00
-754,12-18-2024,Mercados publicos,Tláhuac,Bajo,Zanahoria mediana,15.00
-754,12-18-2024,Mercados publicos,Aragón 3ra Sección,Alto,Zanahoria mediana,20.00
-754,12-18-2024,CEDA,CEDA,Bajo,Zanahoria mediana,
-754,12-18-2024,CEDA,CEDA,Alto,Zanahoria mediana,
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Aceite Mixto,27.90
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Bajo,Arroz largo,17.00
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Azúcar Estándar,30.00
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Harina de Trigo,16.50
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Bajo,Frijol Flor de Mayo,45.00
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Bajo,Frijol Negro,29.50
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Bajo,Huevo Blanco,55.00
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Carne Molida Sirloin 90-10,117.00
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Bistec Diezmillo de Res,159.00
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Aguacate Hass,85.00
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Limón con semilla,25.90
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Guayaba,46.90
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Manzana Golden,53.90
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Manzana Starking,42.50
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Naranja mediana,34.90
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Bajo,Papaya maradol,57.00
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Piña,33.00
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Plátano,17.90
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Sandía,16.90
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Calabacita Italiana,45.50
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Chile poblano,54.50
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Chile serrano,44.90
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Cebolla bola,34.90
-755,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Chayote sin espina,36.50
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Aceite Mixto,30.00
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Arroz largo,27.50
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Azúcar Estándar,35.00
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Harina de Trigo,18.90
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Frijol Flor de Mayo,46.90
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Frijol Negro,41.20
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Huevo Blanco,60.00
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Carne Molida Sirloin 90-10,184.00
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Bistec Diezmillo de Res,206.50
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Aguacate Hass,89.90
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Limón con semilla,39.90
-755,12-19-2024,Tienda de autoservicio,Chedraui,Alto,Guayaba,63.00
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Golden,56.90
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Starking,59.90
-755,12-19-2024,Tienda de autoservicio,Chedraui,Alto,Naranja mediana,38.90
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Papaya maradol,59.90
-755,12-19-2024,Tienda de autoservicio,Chedraui,Alto,Piña,44.00
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Plátano,28.90
-755,12-19-2024,Tienda de autoservicio,Chedraui,Alto,Sandía,21.50
-755,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Calabacita Italiana,58.90
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Chile poblano,69.00
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Chile serrano,99.00
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Cebolla bola,66.00
-755,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Chayote sin espina,44.90
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Aceite Mixto,40.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Arroz largo,28.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Azúcar Estándar,28.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Bajo,Harina de Trigo,28.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Frijol Flor de Mayo,30.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Frijol Negro,38.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Huevo Blanco,30.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Carne Molida Sirloin 90-10,210.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Bistec Diezmillo de Res,210.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Aguacate Hass,50.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Limón con semilla,28.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Guayaba,25.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Manzana Golden,35.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Manzana Starking,40.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Naranja mediana,30.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Papaya maradol,35.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Piña,45.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Plátano,28.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Sandía,25.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Bajo,Calabacita Italiana,20.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Chile poblano,20.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Chile serrano,25.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Cebolla bola,28.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Bajo,Chayote sin espina,20.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Aceite Mixto,50.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Arroz largo,32.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Azúcar Estándar,28.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Alto,Harina de Trigo,28.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Frijol Flor de Mayo,38.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Frijol Negro,42.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Huevo Blanco,45.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Carne Molida Sirloin 90-10,185.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Bistec Diezmillo de Res,185.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Aguacate Hass,100.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Limón con semilla,30.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Guayaba,35.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Manzana Golden,45.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Manzana Starking,45.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Naranja mediana,30.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Papaya maradol,70.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Piña,80.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Plátano,30.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Sandía,25.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Alto,Calabacita Italiana,28.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Chile poblano,40.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Chile serrano,60.00
-755,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Cebolla bola,26.00
-755,12-19-2024,Mercados sobreruedas,Ruta 02,Alto,Chayote sin espina,28.00
-755,12-19-2024,Mercados publicos,La Dalia,Bajo,Aceite Mixto,54.00
-755,12-19-2024,Mercados publicos,La Dalia,Bajo,Arroz largo,25.00
-755,12-19-2024,Mercados publicos,Aragón 1ra Sección,Bajo,Azúcar Estándar,30.00
-755,12-19-2024,Mercados publicos,La Dalia,Bajo,Harina de Trigo,26.00
-755,12-19-2024,Mercados publicos,La Dalia,Bajo,Frijol Flor de Mayo,46.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Frijol Negro,42.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Huevo Blanco,42.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Carne Molida Sirloin 90-10,210.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Bistec Diezmillo de Res,205.00
-755,12-19-2024,Mercados publicos,La Dalia,Bajo,Aguacate Hass,60.00
-755,12-19-2024,Mercados publicos,La Dalia,Bajo,Limón con semilla,25.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Guayaba,30.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Manzana Golden,50.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Manzana Starking,60.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Naranja mediana,20.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Papaya maradol,30.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Piña,30.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Plátano,20.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Sandía,20.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Calabacita Italiana,25.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Chile poblano,46.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Chile serrano,40.00
-755,12-19-2024,Mercados publicos,La Dalia,Bajo,Cebolla bola,30.00
-755,12-19-2024,Mercados publicos,La Dalia,Bajo,Chayote sin espina,30.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Alto,Aceite Mixto,55.00
-755,12-19-2024,Mercados publicos,Aragón 1ra Sección,Alto,Arroz largo,26.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Azúcar Estándar,32.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Alto,Harina de Trigo,28.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Alto,Frijol Flor de Mayo,46.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Frijol Negro,44.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Huevo Blanco,44.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Carne Molida Sirloin 90-10,210.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Bistec Diezmillo de Res,205.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Alto,Aguacate Hass,60.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Alto,Limón con semilla,28.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Guayaba,38.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Manzana Golden,50.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Manzana Starking,60.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Naranja mediana,20.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Papaya maradol,30.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Piña,30.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Plátano,20.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Sandía,20.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Calabacita Italiana,25.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Chile poblano,50.00
-755,12-19-2024,Mercados publicos,La Dalia,Alto,Chile serrano,42.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Alto,Cebolla bola,32.00
-755,12-19-2024,Mercados publicos,Martínez de la Torre,Alto,Chayote sin espina,32.00
-755,12-19-2024,CEDA,CEDA,Bajo,Aceite Mixto,
-755,12-19-2024,CEDA,CEDA,Bajo,Arroz largo,
-755,12-19-2024,CEDA,CEDA,Bajo,Azúcar Estándar,
-755,12-19-2024,CEDA,CEDA,Bajo,Harina de Trigo,
-755,12-19-2024,CEDA,CEDA,Bajo,Frijol Flor de Mayo,
-755,12-19-2024,CEDA,CEDA,Bajo,Frijol Negro,
-755,12-19-2024,CEDA,CEDA,Bajo,Huevo Blanco,
-755,12-19-2024,CEDA,CEDA,Bajo,Carne Molida Sirloin 90-10,
-755,12-19-2024,CEDA,CEDA,Bajo,Bistec Diezmillo de Res,
-755,12-19-2024,CEDA,CEDA,Bajo,Aguacate Hass,
-755,12-19-2024,CEDA,CEDA,Bajo,Limón con semilla,
-755,12-19-2024,CEDA,CEDA,Bajo,Guayaba,
-755,12-19-2024,CEDA,CEDA,Bajo,Manzana Golden,
-755,12-19-2024,CEDA,CEDA,Bajo,Manzana Starking,
-755,12-19-2024,CEDA,CEDA,Bajo,Naranja mediana,
-755,12-19-2024,CEDA,CEDA,Bajo,Papaya maradol,
-755,12-19-2024,CEDA,CEDA,Bajo,Piña,
-755,12-19-2024,CEDA,CEDA,Bajo,Plátano,
-755,12-19-2024,CEDA,CEDA,Bajo,Sandía,
-755,12-19-2024,CEDA,CEDA,Bajo,Calabacita Italiana,
-755,12-19-2024,CEDA,CEDA,Bajo,Chile poblano,
-755,12-19-2024,CEDA,CEDA,Bajo,Chile serrano,
-755,12-19-2024,CEDA,CEDA,Bajo,Cebolla bola,
-755,12-19-2024,CEDA,CEDA,Bajo,Chayote sin espina,
-755,12-19-2024,CEDA,CEDA,Alto,Aceite Mixto,
-755,12-19-2024,CEDA,CEDA,Alto,Arroz largo,
-755,12-19-2024,CEDA,CEDA,Alto,Azúcar Estándar,
-755,12-19-2024,CEDA,CEDA,Alto,Harina de Trigo,
-755,12-19-2024,CEDA,CEDA,Alto,Frijol Flor de Mayo,
-755,12-19-2024,CEDA,CEDA,Alto,Frijol Negro,
-755,12-19-2024,CEDA,CEDA,Alto,Huevo Blanco,
-755,12-19-2024,CEDA,CEDA,Alto,Carne Molida Sirloin 90-10,
-755,12-19-2024,CEDA,CEDA,Alto,Bistec Diezmillo de Res,
-755,12-19-2024,CEDA,CEDA,Alto,Aguacate Hass,
-755,12-19-2024,CEDA,CEDA,Alto,Limón con semilla,
-755,12-19-2024,CEDA,CEDA,Alto,Guayaba,
-755,12-19-2024,CEDA,CEDA,Alto,Manzana Golden,
-755,12-19-2024,CEDA,CEDA,Alto,Manzana Starking,
-755,12-19-2024,CEDA,CEDA,Alto,Naranja mediana,
-755,12-19-2024,CEDA,CEDA,Alto,Papaya maradol,
-755,12-19-2024,CEDA,CEDA,Alto,Piña,
-755,12-19-2024,CEDA,CEDA,Alto,Plátano,
-755,12-19-2024,CEDA,CEDA,Alto,Sandía,
-755,12-19-2024,CEDA,CEDA,Alto,Calabacita Italiana,
-755,12-19-2024,CEDA,CEDA,Alto,Chile poblano,
-755,12-19-2024,CEDA,CEDA,Alto,Chile serrano,
-755,12-19-2024,CEDA,CEDA,Alto,Cebolla bola,
-755,12-19-2024,CEDA,CEDA,Alto,Chayote sin espina,
-756,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Jitomate Saladette,27.50
-756,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Lechuga romana,18.50
-756,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Papa alpha,33.90
-756,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Pepino,41.00
-756,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Tomate verde,49.00
-756,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Zanahoria mediana,18.90
-756,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Jitomate Saladette,54.00
-756,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Lechuga romana,29.90
-756,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Papa alpha,54.00
-756,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Pepino,46.90
-756,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Tomate verde,59.00
-756,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Zanahoria mediana,29.90
-756,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Jitomate Saladette,25.00
-756,12-19-2024,Mercados sobreruedas,Ruta 08,Bajo,Lechuga romana,20.00
-756,12-19-2024,Mercados sobreruedas,Ruta 02,Bajo,Papa alpha,27.00
-756,12-19-2024,Mercados sobreruedas,Ruta 08,Bajo,Pepino,20.00
-756,12-19-2024,Mercados sobreruedas,Ruta 08,Bajo,Tomate verde,24.00
-756,12-19-2024,Mercados sobreruedas,Ruta 08,Bajo,Zanahoria mediana,10.00
-756,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Jitomate Saladette,40.00
-756,12-19-2024,Mercados sobreruedas,Ruta 02,Alto,Lechuga romana,25.00
-756,12-19-2024,Mercados sobreruedas,Ruta 08,Alto,Papa alpha,28.00
-756,12-19-2024,Mercados sobreruedas,Ruta 02,Alto,Pepino,35.00
-756,12-19-2024,Mercados sobreruedas,Ruta 02,Alto,Tomate verde,26.00
-756,12-19-2024,Mercados sobreruedas,Ruta 02,Alto,Zanahoria mediana,28.00
-756,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Jitomate Saladette,30.00
-756,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Lechuga romana,20.00
-756,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Papa alpha,26.00
-756,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Pepino,30.00
-756,12-19-2024,Mercados publicos,Martínez de la Torre,Bajo,Tomate verde,32.00
-756,12-19-2024,Mercados publicos,La Dalia,Bajo,Zanahoria mediana,15.00
-756,12-19-2024,Mercados publicos,La Dalia,Alto,Jitomate Saladette,30.00
-756,12-19-2024,Mercados publicos,La Dalia,Alto,Lechuga romana,20.00
-756,12-19-2024,Mercados publicos,La Dalia,Alto,Papa alpha,26.00
-756,12-19-2024,Mercados publicos,La Dalia,Alto,Pepino,30.00
-756,12-19-2024,Mercados publicos,La Dalia,Alto,Tomate verde,32.00
-756,12-19-2024,Mercados publicos,Martínez de la Torre,Alto,Zanahoria mediana,16.00
-756,12-19-2024,CEDA,CEDA,Bajo,Jitomate Saladette,
-756,12-19-2024,CEDA,CEDA,Bajo,Lechuga romana,
-756,12-19-2024,CEDA,CEDA,Bajo,Papa alpha,
-756,12-19-2024,CEDA,CEDA,Bajo,Pepino,
-756,12-19-2024,CEDA,CEDA,Bajo,Tomate verde,
-756,12-19-2024,CEDA,CEDA,Bajo,Zanahoria mediana,
-756,12-19-2024,CEDA,CEDA,Alto,Jitomate Saladette,
-756,12-19-2024,CEDA,CEDA,Alto,Lechuga romana,
-756,12-19-2024,CEDA,CEDA,Alto,Papa alpha,
-756,12-19-2024,CEDA,CEDA,Alto,Pepino,
-756,12-19-2024,CEDA,CEDA,Alto,Tomate verde,
-756,12-19-2024,CEDA,CEDA,Alto,Zanahoria mediana,
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Aceite Mixto,27.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Bajo,Arroz largo,18.00
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Azúcar Estándar,26.00
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Harina de Trigo,09.54
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Bajo,Frijol Flor de Mayo,45.00
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,0,23.00
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Huevo Blanco,37.00.00
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Carne Molida Sirloin 90-10,117.00.00
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Bistec Diezmillo de Res,189.00
-757,12-20-2024,Tienda de autoservicio,Wal-Mart,Bajo,Aguacate Hass,42.00
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Limón con semilla,24.90
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Guayaba,49.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Bajo,Manzana Golden,34.90
-757,12-20-2024,Tienda de autoservicio,Chedrahui,Bajo,Manzana Starking,32.50
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Naranja mediana,29.90
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Papaya maradol,39.90
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Piña,29.50
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Plátano,16.90
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Sandía,24.90
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Calabacita Italiana,32.90
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Chile poblano,49.90
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Chile serrano,38.90
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Cebolla bola,39.50
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Chayote sin espina,19.50
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Jitomate Saladette,39.90
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Lechuga romana,17.50
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Papa alpha,36.90
-757,12-20-2024,Tienda de autoservicio,Chedraui,Bajo,Pepino,14.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Aceite Mixto,31.00
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Arroz largo,27.50
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Azúcar Estándar,36.00
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Harina de Trigo,18.00
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Frijol Flor de Mayo,46.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,0,45.00
-757,12-20-2024,Tienda de autoservicio,Chedraui,Alto,Huevo Blanco,55.00
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Carne Molida Sirloin 90-10,189.00
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Bistec Diezmillo de Res,206.50
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Aguacate Hass,89.80
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Limón con semilla,29.90
-757,12-20-2024,Tienda de autoservicio,Chedraui,Alto,Guayaba,63.00
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Golden,39.90
-757,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Starking,36.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Naranja mediana,34.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Papaya maradol,57.00
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Piña,40.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Plátano,24.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Sandía,28.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Calabacita Italiana,57.00
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Chile poblano,79.00
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Chile serrano,99.00
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Cebolla bola,66.00
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Chayote sin espina,44.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Jitomate Saladette,54.00
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Lechuga romana,31.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Papa alpha,46.90
-757,12-20-2024,Tienda de autoservicio,Wal-mart,Alto,Pepino,39.90
-757,12-20-2024,Mercados sobreruedas,,Bajo,Aceite Mixto,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Arroz largo,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Azúcar Estándar,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Harina de Trigo,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Frijol Flor de Mayo,
-757,12-20-2024,Mercados sobreruedas,,Bajo,0,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Huevo Blanco,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Carne Molida Sirloin 90-10,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Bistec Diezmillo de Res,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Aguacate Hass,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Limón con semilla,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Guayaba,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Manzana Golden,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Manzana Starking,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Naranja mediana,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Papaya maradol,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Piña,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Plátano,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Sandía,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Calabacita Italiana,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Chile poblano,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Chile serrano,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Cebolla bola,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Chayote sin espina,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Jitomate Saladette,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Lechuga romana,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Papa alpha,
-757,12-20-2024,Mercados sobreruedas,,Bajo,Pepino,
-757,12-20-2024,Mercados sobreruedas,,Alto,Aceite Mixto,
-757,12-20-2024,Mercados sobreruedas,,Alto,Arroz largo,
-757,12-20-2024,Mercados sobreruedas,,Alto,Azúcar Estándar,
-757,12-20-2024,Mercados sobreruedas,,Alto,Harina de Trigo,
-757,12-20-2024,Mercados sobreruedas,,Alto,Frijol Flor de Mayo,
-757,12-20-2024,Mercados sobreruedas,,Alto,0,
-757,12-20-2024,Mercados sobreruedas,,Alto,Huevo Blanco,
-757,12-20-2024,Mercados sobreruedas,,Alto,Carne Molida Sirloin 90-10,
-757,12-20-2024,Mercados sobreruedas,,Alto,Bistec Diezmillo de Res,
-757,12-20-2024,Mercados sobreruedas,,Alto,Aguacate Hass,
-757,12-20-2024,Mercados sobreruedas,,Alto,Limón con semilla,
-757,12-20-2024,Mercados sobreruedas,,Alto,Guayaba,
-757,12-20-2024,Mercados sobreruedas,,Alto,Manzana Golden,
-757,12-20-2024,Mercados sobreruedas,,Alto,Manzana Starking,
-757,12-20-2024,Mercados sobreruedas,,Alto,Naranja mediana,
-757,12-20-2024,Mercados sobreruedas,,Alto,Papaya maradol,
-757,12-20-2024,Mercados sobreruedas,,Alto,Piña,
-757,12-20-2024,Mercados sobreruedas,,Alto,Plátano,
-757,12-20-2024,Mercados sobreruedas,,Alto,Sandía,
-757,12-20-2024,Mercados sobreruedas,,Alto,Calabacita Italiana,
-757,12-20-2024,Mercados sobreruedas,,Alto,Chile poblano,
-757,12-20-2024,Mercados sobreruedas,,Alto,Chile serrano,
-757,12-20-2024,Mercados sobreruedas,,Alto,Cebolla bola,
-757,12-20-2024,Mercados sobreruedas,,Alto,Chayote sin espina,
-757,12-20-2024,Mercados sobreruedas,,Alto,Jitomate Saladette,
-757,12-20-2024,Mercados sobreruedas,,Alto,Lechuga romana,
-757,12-20-2024,Mercados sobreruedas,,Alto,Papa alpha,
-757,12-20-2024,Mercados sobreruedas,,Alto,Pepino,
-757,12-20-2024,Mercados publicos,Casas Alemán,Bajo,Aceite Mixto,50.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Bajo,Arroz largo,22.00
-757,12-20-2024,Mercados publicos,Mercado Juárez,Bajo,Azúcar Estándar,30.00
-757,12-20-2024,Mercados publicos,Bugambilia,Bajo,Harina de Trigo,28.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Bajo,Frijol Flor de Mayo,45.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Bajo,0,45.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Bajo,Huevo Blanco,42.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Carne Molida Sirloin 90-10,190.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Bistec Diezmillo de Res,170.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Aguacate Hass,48.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Limón con semilla,20.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Guayaba,28.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Manzana Golden,50.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Manzana Starking,50.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Naranja mediana,35.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Papaya maradol,35.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Piña,35.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Plátano,20.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Sandía,35.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Calabacita Italiana,26.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Chile poblano,50.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Chile serrano,40.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Cebolla bola,30.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Chayote sin espina,30.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Bajo,Jitomate Saladette,35.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Lechuga romana,20.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Papa alpha,26.00
-757,12-20-2024,Mercados publicos,Juárez,Bajo,Pepino,35.00
-757,12-20-2024,Mercados publicos,Bugambilia,Alto,Aceite Mixto,50.00
-757,12-20-2024,Mercados publicos,Bugambilia,Alto,Arroz largo,22.00
-757,12-20-2024,Mercados publicos,Bugambilia,Alto,Azúcar Estándar,32.00
-757,12-20-2024,Mercados publicos,Juárez,Alto,Harina de Trigo,28.00
-757,12-20-2024,Mercados publicos,Bugambilia,Alto,Frijol Flor de Mayo,45.00
-757,12-20-2024,Mercados publicos,Bugambilia,Alto,0,45.00
-757,12-20-2024,Mercados publicos,Bugambilia,Alto,Huevo Blanco,42.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Carne Molida Sirloin 90-10,210.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Bistec Diezmillo de Res,200.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Aguacate Hass,50.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Limón con semilla,28.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Guayaba,30.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Manzana Golden,50.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Manzana Starking,60.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Naranja mediana,35.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Papaya maradol,35.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Piña,35.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Plátano,20.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Sandía,25.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Calabacita Italiana,26.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Chile poblano,50.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Chile serrano,40.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Cebolla bola,30.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Chayote sin espina,30.00
-757,12-20-2024,Mercados publicos,Juárez,Alto,Jitomate Saladette,40.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Lechuga romana,20.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Papa alpha,26.00
-757,12-20-2024,Mercados publicos,Casas Alemán,Alto,Pepino,35.00
-757,12-20-2024,CEDA,CEDA,Bajo,Aceite Mixto,
-757,12-20-2024,CEDA,CEDA,Bajo,Arroz largo,
-757,12-20-2024,CEDA,CEDA,Bajo,Azúcar Estándar,
-757,12-20-2024,CEDA,CEDA,Bajo,Harina de Trigo,
-757,12-20-2024,CEDA,CEDA,Bajo,Frijol Flor de Mayo,
-757,12-20-2024,CEDA,CEDA,Bajo,0,
-757,12-20-2024,CEDA,CEDA,Bajo,Huevo Blanco,
-757,12-20-2024,CEDA,CEDA,Bajo,Carne Molida Sirloin 90-10,
-757,12-20-2024,CEDA,CEDA,Bajo,Bistec Diezmillo de Res,
-757,12-20-2024,CEDA,CEDA,Bajo,Aguacate Hass,
-757,12-20-2024,CEDA,CEDA,Bajo,Limón con semilla,
-757,12-20-2024,CEDA,CEDA,Bajo,Guayaba,
-757,12-20-2024,CEDA,CEDA,Bajo,Manzana Golden,
-757,12-20-2024,CEDA,CEDA,Bajo,Manzana Starking,
-757,12-20-2024,CEDA,CEDA,Bajo,Naranja mediana,
-757,12-20-2024,CEDA,CEDA,Bajo,Papaya maradol,
-757,12-20-2024,CEDA,CEDA,Bajo,Piña,
-757,12-20-2024,CEDA,CEDA,Bajo,Plátano,
-757,12-20-2024,CEDA,CEDA,Bajo,Sandía,
-757,12-20-2024,CEDA,CEDA,Bajo,Calabacita Italiana,
-757,12-20-2024,CEDA,CEDA,Bajo,Chile poblano,
-757,12-20-2024,CEDA,CEDA,Bajo,Chile serrano,
-757,12-20-2024,CEDA,CEDA,Bajo,Cebolla bola,
-757,12-20-2024,CEDA,CEDA,Bajo,Chayote sin espina,
-757,12-20-2024,CEDA,CEDA,Bajo,Jitomate Saladette,
-757,12-20-2024,CEDA,CEDA,Bajo,Lechuga romana,
-757,12-20-2024,CEDA,CEDA,Bajo,Papa alpha,
-757,12-20-2024,CEDA,CEDA,Bajo,Pepino,
-757,12-20-2024,CEDA,CEDA,Alto,Aceite Mixto,
-757,12-20-2024,CEDA,CEDA,Alto,Arroz largo,
-757,12-20-2024,CEDA,CEDA,Alto,Azúcar Estándar,
-757,12-20-2024,CEDA,CEDA,Alto,Harina de Trigo,
-757,12-20-2024,CEDA,CEDA,Alto,Frijol Flor de Mayo,
-757,12-20-2024,CEDA,CEDA,Alto,0,
-757,12-20-2024,CEDA,CEDA,Alto,Huevo Blanco,
-757,12-20-2024,CEDA,CEDA,Alto,Carne Molida Sirloin 90-10,
-757,12-20-2024,CEDA,CEDA,Alto,Bistec Diezmillo de Res,
-757,12-20-2024,CEDA,CEDA,Alto,Aguacate Hass,
-757,12-20-2024,CEDA,CEDA,Alto,Limón con semilla,
-757,12-20-2024,CEDA,CEDA,Alto,Guayaba,
-757,12-20-2024,CEDA,CEDA,Alto,Manzana Golden,
-757,12-20-2024,CEDA,CEDA,Alto,Manzana Starking,
-757,12-20-2024,CEDA,CEDA,Alto,Naranja mediana,
-757,12-20-2024,CEDA,CEDA,Alto,Papaya maradol,
-757,12-20-2024,CEDA,CEDA,Alto,Piña,
-757,12-20-2024,CEDA,CEDA,Alto,Plátano,
-757,12-20-2024,CEDA,CEDA,Alto,Sandía,
-757,12-20-2024,CEDA,CEDA,Alto,Calabacita Italiana,
-757,12-20-2024,CEDA,CEDA,Alto,Chile poblano,
-757,12-20-2024,CEDA,CEDA,Alto,Chile serrano,
-757,12-20-2024,CEDA,CEDA,Alto,Cebolla bola,
-757,12-20-2024,CEDA,CEDA,Alto,Chayote sin espina,
-757,12-20-2024,CEDA,CEDA,Alto,Jitomate Saladette,
-757,12-20-2024,CEDA,CEDA,Alto,Lechuga romana,
-757,12-20-2024,CEDA,CEDA,Alto,Papa alpha,
-757,12-20-2024,CEDA,CEDA,Alto,Pepino,
-758,12-20-2024,Tienda de autoservicio,Comercial,Bajo,Tomate verde,39.90
-758,12-20-2024,Tienda de autoservicio,Wal-Mart,Bajo,Zanahoria mediana,13.9
-758,12-20-2024,Tienda de autoservicio,Wal-Mart,Alto,Tomate verde,59.00
-758,12-20-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Zanahoria mediana,15.90
-758,12-20-2024,Mercados sobreruedas,,Bajo,Tomate verde,
-758,12-20-2024,Mercados sobreruedas,,Bajo,Zanahoria mediana,
-758,12-20-2024,Mercados sobreruedas,,Alto,Tomate verde,
-758,12-20-2024,Mercados sobreruedas,,Alto,Zanahoria mediana,
-758,12-20-2024,Mercados publicos,Casas Alemán,Bajo,Tomate verde,34.00
-758,12-20-2024,Mercados publicos,Juárez,Bajo,Zanahoria mediana,20.00
-758,12-20-2024,Mercados publicos,Juárez,Alto,Tomate verde,36.00
-758,12-20-2024,Mercados publicos,Casas Alemán,Alto,Zanahoria mediana,20.00
-758,12-20-2024,CEDA,CEDA,Bajo,Tomate verde,
-758,12-20-2024,CEDA,CEDA,Bajo,Zanahoria mediana,
-758,12-20-2024,CEDA,CEDA,Alto,Tomate verde,
-758,12-20-2024,CEDA,CEDA,Alto,Zanahoria mediana,
+753,12-17-2024,Tienda de autoservicio,Wal-mart $18.90 Chedraui $15.90 Comercial Mexicana,Bajo,Arroz largo Azúcar Estándar Harina de Trigo,17.00
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana $25.90 Comercial Mexicana,Bajo,Frijol Flor de Mayo Frijol Negro,46.90
+753,12-17-2024,Tienda de autoservicio,Wal-mart $89.00 Wal-mart,Bajo,Huevo Blanco Carne Molida Sirloin 90-10 Bistec Diezmillo de,55.00
+753,12-17-2024,Tienda de autoservicio,Chedraui $79.90 Chedraui,Bajo,Res Aguacate Hass,159.00
+753,12-17-2024,Tienda de autoservicio,Chedraui $46.50 Chedraui,Bajo,Limón con semilla Guayaba,29.50
+753,12-17-2024,Tienda de autoservicio,Chedraui,Bajo,Manzana Golden,49.50
+753,12-17-2024,Tienda de autoservicio,Chedraui $19.50 Chedraui,Bajo,Manzana Starking Naranja mediana,32.00
+753,12-17-2024,Tienda de autoservicio,Wal-mart,Bajo,Papaya maradol,57.00
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Piña,33.00
+753,12-17-2024,Tienda de autoservicio,Chedraui,Bajo,Plátano,17.90
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Sandía,16.90
+753,12-17-2024,Tienda de autoservicio,Chedraui,Bajo,Calabacita Italiana,45.50
+753,12-17-2024,Tienda de autoservicio,Chedraui,Bajo,Chile poblano,54.50
+753,12-17-2024,Tienda de autoservicio,Chedraui,Bajo,Chile serrano,44.90
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Cebolla bola,34.90
+753,12-17-2024,Tienda de autoservicio,Chedraui,Bajo,Chayote sin espina,36.50
+753,12-17-2024,Tienda de autoservicio,Chedraui,Bajo,Jitomate Saladette,27.50
+753,12-17-2024,Tienda de autoservicio,Chedraui $33.90 Comercial,Bajo,Lechuga romana,18.50
+753,12-17-2024,Tienda de autoservicio,$41.00 Chedraui,Bajo,Papa alpha Pepino,Mexicana
+753,12-17-2024,Tienda de autoservicio,Chedraui,Bajo,Tomate verde,49.00
+753,12-17-2024,Tienda de autoservicio,$30.00 Wal-mart $17.00 Wal-mart,Alto,Arroz largo Azúcar Estándar Harina de Trigo,Mexicana
+753,12-17-2024,Tienda de autoservicio,Chedraui $29.50 Wal-mart,Alto,Frijol Flor de Mayo Frijol Negro,47.00
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana $189.00 Comercial Mexicana,Alto,Huevo Blanco Carne Molida Sirloin 90-10 Bistec Diezmillo de,62.00
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana $89.90 Comercial Mexicana,Alto,Res Aguacate Hass,206.50
+753,12-17-2024,Tienda de autoservicio,Wal-mart $60.00 Wal-mart,Alto,Limón con semilla Guayaba,39.90
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana $39.50 Comercial,Alto,Manzana Golden,59.90
+753,12-17-2024,Tienda de autoservicio,$36.90 Comercial Mexicana,Alto,Manzana Starking Naranja mediana,Mexicana
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Papaya maradol,59.90
+753,12-17-2024,Tienda de autoservicio,Chedraui,Alto,Piña,44.00
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Plátano,28.90
+753,12-17-2024,Tienda de autoservicio,Chedraui,Alto,Sandía,21.50
+753,12-17-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Calabacita Italiana,58.90
+753,12-17-2024,Tienda de autoservicio,Wal-mart,Alto,Chile poblano,69.00
+753,12-17-2024,Tienda de autoservicio,Wal-mart,Alto,Chile serrano,99.00
+753,12-17-2024,Tienda de autoservicio,Wal-mart,Alto,Cebolla bola,66.00
+753,12-17-2024,Tienda de autoservicio,Wal-mart,Alto,Chayote sin espina,44.90
+753,12-17-2024,Tienda de autoservicio,Wal-mart,Alto,Jitomate Saladette,54.00
+753,12-17-2024,Tienda de autoservicio,Wal-mart,Alto,Lechuga romana,29.90
+753,12-17-2024,Tienda de autoservicio,Wal-mart $46.90 Wal-mart,Alto,Papa alpha Pepino,54.00
+753,12-17-2024,Tienda de autoservicio,Wal-mart,Alto,Tomate verde,59.00
+753,12-17-2024,Mercados sobreruedas,$25.00 Ruta 02 $24.00 Ruta 08,Bajo,Arroz largo Azúcar Estándar Harina de Trigo,08
+753,12-17-2024,Mercados sobreruedas,Ruta 08 $45.00 Ruta 02,Bajo,Frijol Flor de Mayo Frijol Negro,65.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08 $198.00 Ruta 08,Bajo,Huevo Blanco Carne Molida Sirloin 90-10 Bistec Diezmillo de,48.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08 $60.00 Ruta 08 $20.00 Ruta,Bajo,Res Aguacate Hass,198.00
+753,12-17-2024,Mercados sobreruedas,$25.00 Ruta 02,Bajo,Limón con semilla Guayaba,02
+753,12-17-2024,Mercados sobreruedas,Ruta 08 $50.00 Ruta,Bajo,Manzana Golden,40.00
+753,12-17-2024,Mercados sobreruedas,$25.00 Ruta 08,Bajo,Manzana Starking Naranja mediana,02
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Bajo,Papaya maradol,35.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Bajo,Piña,40.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Bajo,Plátano,20.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Bajo,Sandía,20.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Bajo,Calabacita Italiana,30.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Bajo,Chile poblano,40.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Bajo,Chile serrano,30.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Bajo,Cebolla bola,24.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Bajo,Chayote sin espina,20.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Bajo,Jitomate Saladette,30.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02 $25.00 Ruta,Bajo,Lechuga romana,20.00
+753,12-17-2024,Mercados sobreruedas,$25.00 Ruta 08,Bajo,Papa alpha Pepino,02
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Bajo,Tomate verde,24.00
+753,12-17-2024,Mercados sobreruedas,$30.00 Ruta 08 $24.00 Ruta 02,Alto,Arroz largo Azúcar Estándar Harina de Trigo,02
+753,12-17-2024,Mercados sobreruedas,Ruta 02 $60.00 Ruta 08,Alto,Frijol Flor de Mayo Frijol Negro,70.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02 $200.00 Ruta 02,Alto,Huevo Blanco Carne Molida Sirloin 90-10 Bistec Diezmillo de,50.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02 $80.00 Ruta 02 $30.00 Ruta,Alto,Res Aguacate Hass,200.00
+753,12-17-2024,Mercados sobreruedas,$35.00 Ruta 08,Alto,Limón con semilla Guayaba,08
+753,12-17-2024,Mercados sobreruedas,Ruta 02 $50.00 Ruta,Alto,Manzana Golden,50.00
+753,12-17-2024,Mercados sobreruedas,$25.00 Ruta 02,Alto,Manzana Starking Naranja mediana,08
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Alto,Papaya maradol,50.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Alto,Piña,40.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Alto,Plátano,30.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Alto,Sandía,25.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Alto,Calabacita Italiana,30.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Alto,Chile poblano,50.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Alto,Chile serrano,50.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Alto,Cebolla bola,30.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Alto,Chayote sin espina,25.00
+753,12-17-2024,Mercados sobreruedas,Ruta 02,Alto,Jitomate Saladette,30.00
+753,12-17-2024,Mercados sobreruedas,Ruta 08 $25.00 Ruta,Alto,Lechuga romana,20.00
+753,12-17-2024,Mercados sobreruedas,$32.00 Ruta 02,Alto,Papa alpha Pepino,08
+753,12-17-2024,Mercados sobreruedas,Ruta 08,Alto,Tomate verde,30.00
+753,12-17-2024,Mercados publicos,Sección $30.00 Tláhuac $28.00 Tláhuac,Bajo,Arroz largo Azúcar Estándar Harina de Trigo,3ra
+753,12-17-2024,Mercados publicos,Arenal $42.00 Tláhuac,Bajo,Frijol Flor de Mayo Frijol Negro,46.00
+753,12-17-2024,Mercados publicos,Arenal $210.00 Arenal,Bajo,Huevo Blanco Carne Molida Sirloin 90-10 Bistec Diezmillo de,42.00
+753,12-17-2024,Mercados publicos,Aragón 3ra Sección $60.00 Tláhuac,Bajo,Res Aguacate Hass,200.00
+753,12-17-2024,Mercados publicos,Tláhuac $30.00 Tláhuac,Bajo,Limón con semilla Guayaba,22.00
+753,12-17-2024,Mercados publicos,Tláhuac $50.00 Aragón,Bajo,Manzana Golden,50.00
+753,12-17-2024,Mercados publicos,Sección $20.00 Tláhuac,Bajo,Manzana Starking Naranja mediana,3ra
+753,12-17-2024,Mercados publicos,Aragón 3ra Sección,Bajo,Papaya maradol,30.00
+753,12-17-2024,Mercados publicos,Arenal,Bajo,Piña,30.00
+753,12-17-2024,Mercados publicos,Arenal,Bajo,Plátano,20.00
+753,12-17-2024,Mercados publicos,Tláhuac,Bajo,Sandía,20.00
+753,12-17-2024,Mercados publicos,Arenal,Bajo,Calabacita Italiana,25.00
+753,12-17-2024,Mercados publicos,Arenal,Bajo,Chile poblano,46.00
+753,12-17-2024,Mercados publicos,Arenal,Bajo,Chile serrano,40.00
+753,12-17-2024,Mercados publicos,Tláhuac,Bajo,Cebolla bola,32.00
+753,12-17-2024,Mercados publicos,Tláhuac,Bajo,Chayote sin espina,32.00
+753,12-17-2024,Mercados publicos,Tláhuac,Bajo,Jitomate Saladette,30.00
+753,12-17-2024,Mercados publicos,Tláhuac,Bajo,Lechuga romana,20.00
+753,12-17-2024,Mercados publicos,Tláhuac $30.00 Arenal,Bajo,Papa alpha Pepino,20.00
+753,12-17-2024,Mercados publicos,Tláhuac,Bajo,Tomate verde,25.00
+753,12-17-2024,Mercados publicos,Arenal $30.00 Arenal $28.00 Arenal,Alto,Arroz largo Azúcar Estándar Harina de Trigo,26.00
+753,12-17-2024,Mercados publicos,Aragón 3ra Sección $44.00 Aragón 3ra Sección,Alto,Frijol Flor de Mayo Frijol Negro,48.00
+753,12-17-2024,Mercados publicos,Tláhuac $215.00 Tláhuac,Alto,Huevo Blanco Carne Molida Sirloin 90-10 Bistec Diezmillo de,44.00
+753,12-17-2024,Mercados publicos,Arenal $66.00 Aragón 3ra Sección,Alto,Res Aguacate Hass,205.00
+753,12-17-2024,Mercados publicos,Arenal $30.00 Arenal,Alto,Limón con semilla Guayaba,28.00
+753,12-17-2024,Mercados publicos,Arenal,Alto,Manzana Golden,50.00
+753,12-17-2024,Mercados publicos,Arenal $20.00 Arenal,Alto,Manzana Starking Naranja mediana,60.00
+753,12-17-2024,Mercados publicos,Arenal,Alto,Papaya maradol,35.00
+753,12-17-2024,Mercados publicos,Tláhuac,Alto,Piña,35.00
+753,12-17-2024,Mercados publicos,Tláhuac,Alto,Plátano,22.00
+753,12-17-2024,Mercados publicos,Arenal,Alto,Sandía,20.00
+753,12-17-2024,Mercados publicos,Tláhuac,Alto,Calabacita Italiana,26.00
+753,12-17-2024,Mercados publicos,Tláhuac,Alto,Chile poblano,50.00
+753,12-17-2024,Mercados publicos,Tláhuac,Alto,Chile serrano,42.00
+753,12-17-2024,Mercados publicos,Arenal,Alto,Cebolla bola,32.00
+753,12-17-2024,Mercados publicos,Arenal,Alto,Chayote sin espina,32.00
+753,12-17-2024,Mercados publicos,Aragón 3ra Sección,Alto,Jitomate Saladette,40.00
+753,12-17-2024,Mercados publicos,Arenal $26.00 Aragón,Alto,Lechuga romana,20.00
+753,12-17-2024,Mercados publicos,Sección $34.00 Tláhuac,Alto,Papa alpha Pepino,3ra
+753,12-17-2024,Mercados publicos,Arenal,Alto,Tomate verde,32.00
+753,12-17-2024,CEDA,CEDA,Bajo,Arroz largo Azúcar Estándar Harina de Trigo,
+753,12-17-2024,CEDA,CEDA,Bajo,Frijol Flor de Mayo Frijol Negro,
+753,12-17-2024,CEDA,CEDA,Bajo,Huevo Blanco Carne Molida Sirloin 90-10 Bistec Diezmillo de,
+753,12-17-2024,CEDA,CEDA,Bajo,Res Aguacate Hass,
+753,12-17-2024,CEDA,CEDA,Bajo,Limón con semilla Guayaba,
+753,12-17-2024,CEDA,CEDA,Bajo,Manzana Golden,
+753,12-17-2024,CEDA,CEDA,Bajo,Manzana Starking Naranja mediana,
+753,12-17-2024,CEDA,CEDA,Bajo,Papaya maradol,
+753,12-17-2024,CEDA,CEDA,Bajo,Piña,
+753,12-17-2024,CEDA,CEDA,Bajo,Plátano,
+753,12-17-2024,CEDA,CEDA,Bajo,Sandía,
+753,12-17-2024,CEDA,CEDA,Bajo,Calabacita Italiana,
+753,12-17-2024,CEDA,CEDA,Bajo,Chile poblano,
+753,12-17-2024,CEDA,CEDA,Bajo,Chile serrano,
+753,12-17-2024,CEDA,CEDA,Bajo,Cebolla bola,
+753,12-17-2024,CEDA,CEDA,Bajo,Chayote sin espina,
+753,12-17-2024,CEDA,CEDA,Bajo,Jitomate Saladette,
+753,12-17-2024,CEDA,CEDA,Bajo,Lechuga romana,
+753,12-17-2024,CEDA,CEDA,Bajo,Papa alpha Pepino,
+753,12-17-2024,CEDA,CEDA,Bajo,Tomate verde,
+753,12-17-2024,CEDA,CEDA,Alto,Arroz largo Azúcar Estándar Harina de Trigo,
+753,12-17-2024,CEDA,CEDA,Alto,Frijol Flor de Mayo Frijol Negro,
+753,12-17-2024,CEDA,CEDA,Alto,Huevo Blanco Carne Molida Sirloin 90-10 Bistec Diezmillo de,
+753,12-17-2024,CEDA,CEDA,Alto,Res Aguacate Hass,
+753,12-17-2024,CEDA,CEDA,Alto,Limón con semilla Guayaba,
+753,12-17-2024,CEDA,CEDA,Alto,Manzana Golden,
+753,12-17-2024,CEDA,CEDA,Alto,Manzana Starking Naranja mediana,
+753,12-17-2024,CEDA,CEDA,Alto,Papaya maradol,
+753,12-17-2024,CEDA,CEDA,Alto,Piña,
+753,12-17-2024,CEDA,CEDA,Alto,Plátano,
+753,12-17-2024,CEDA,CEDA,Alto,Sandía,
+753,12-17-2024,CEDA,CEDA,Alto,Calabacita Italiana,
+753,12-17-2024,CEDA,CEDA,Alto,Chile poblano,
+753,12-17-2024,CEDA,CEDA,Alto,Chile serrano,
+753,12-17-2024,CEDA,CEDA,Alto,Cebolla bola,
+753,12-17-2024,CEDA,CEDA,Alto,Chayote sin espina,
+753,12-17-2024,CEDA,CEDA,Alto,Jitomate Saladette,
+753,12-17-2024,CEDA,CEDA,Alto,Lechuga romana,
+753,12-17-2024,CEDA,CEDA,Alto,Papa alpha Pepino,
+753,12-17-2024,CEDA,CEDA,Alto,Tomate verde,
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Aceite Mixto,27.90
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Bajo,Arroz largo,17.00
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Azúcar Estándar,30.00
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Harina de Trigo,16.50
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Bajo,Frijol Flor de Mayo,45.00
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Bajo,Frijol Negro,29.50
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Bajo,Huevo Blanco,55.00
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Carne Molida Sirloin 90-10,117.00
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Bistec Diezmillo de Res,159.00
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Aguacate Hass,85.00
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Limón con semilla,25.90
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Guayaba,46.90
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Manzana Golden,53.90
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Manzana Starking,42.50
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Naranja mediana,34.90
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Bajo,Papaya maradol,57.00
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Piña,33.00
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Plátano,17.90
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Sandía,16.90
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Calabacita Italiana,45.50
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Chile poblano,54.50
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Chile serrano,44.90
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Cebolla bola,34.90
+755,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Chayote sin espina,36.50
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Aceite Mixto,30.00
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Arroz largo,27.50
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Azúcar Estándar,35.00
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Harina de Trigo,18.90
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Frijol Flor de Mayo,46.90
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Frijol Negro,41.20
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Huevo Blanco,60.00
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Carne Molida Sirloin 90-10,184.00
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Bistec Diezmillo de Res,206.50
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Aguacate Hass,89.90
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Limón con semilla,39.90
+755,12-18-2024,Tienda de autoservicio,Chedraui,Alto,Guayaba,63.00
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Golden,56.90
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Starking,59.90
+755,12-18-2024,Tienda de autoservicio,Chedraui,Alto,Naranja mediana,38.90
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Papaya maradol,59.90
+755,12-18-2024,Tienda de autoservicio,Chedraui,Alto,Piña,44.00
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Plátano,28.90
+755,12-18-2024,Tienda de autoservicio,Chedraui,Alto,Sandía,21.50
+755,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Calabacita Italiana,58.90
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Chile poblano,69.00
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Chile serrano,99.00
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Cebolla bola,66.00
+755,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Chayote sin espina,44.90
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Aceite Mixto,40.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Arroz largo,28.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Azúcar Estándar,28.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Harina de Trigo,28.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Frijol Flor de Mayo,30.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Frijol Negro,38.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Huevo Blanco,30.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Carne Molida Sirloin 90-10,210.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Bistec Diezmillo de Res,210.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Aguacate Hass,50.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Limón con semilla,28.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Guayaba,25.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Manzana Golden,35.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Manzana Starking,40.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Naranja mediana,30.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Papaya maradol,35.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Piña,45.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Plátano,28.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Sandía,25.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Calabacita Italiana,20.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Chile poblano,20.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Chile serrano,25.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Cebolla bola,28.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Chayote sin espina,20.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Aceite Mixto,50.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Arroz largo,32.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Azúcar Estándar,28.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Harina de Trigo,28.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Frijol Flor de Mayo,38.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Frijol Negro,42.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Huevo Blanco,45.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Carne Molida Sirloin 90-10,185.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Bistec Diezmillo de Res,185.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Aguacate Hass,100.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Limón con semilla,30.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Guayaba,35.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Manzana Golden,45.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Manzana Starking,45.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Naranja mediana,30.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Papaya maradol,70.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Piña,80.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Plátano,30.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Sandía,25.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Calabacita Italiana,28.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Chile poblano,40.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Chile serrano,60.00
+755,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Cebolla bola,26.00
+755,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Chayote sin espina,28.00
+755,12-18-2024,Mercados publicos,La Dalia,Bajo,Aceite Mixto,54.00
+755,12-18-2024,Mercados publicos,La Dalia,Bajo,Arroz largo,25.00
+755,12-18-2024,Mercados publicos,Aragón 1ra Sección,Bajo,Azúcar Estándar,30.00
+755,12-18-2024,Mercados publicos,La Dalia,Bajo,Harina de Trigo,26.00
+755,12-18-2024,Mercados publicos,La Dalia,Bajo,Frijol Flor de Mayo,46.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Frijol Negro,42.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Huevo Blanco,42.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Carne Molida Sirloin 90-10,210.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Bistec Diezmillo de Res,205.00
+755,12-18-2024,Mercados publicos,La Dalia,Bajo,Aguacate Hass,60.00
+755,12-18-2024,Mercados publicos,La Dalia,Bajo,Limón con semilla,25.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Guayaba,30.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Manzana Golden,50.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Manzana Starking,60.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Naranja mediana,20.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Papaya maradol,30.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Piña,30.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Plátano,20.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Sandía,20.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Calabacita Italiana,25.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Chile poblano,46.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Chile serrano,40.00
+755,12-18-2024,Mercados publicos,La Dalia,Bajo,Cebolla bola,30.00
+755,12-18-2024,Mercados publicos,La Dalia,Bajo,Chayote sin espina,30.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Alto,Aceite Mixto,55.00
+755,12-18-2024,Mercados publicos,Aragón 1ra Sección,Alto,Arroz largo,26.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Azúcar Estándar,32.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Alto,Harina de Trigo,28.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Alto,Frijol Flor de Mayo,46.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Frijol Negro,44.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Huevo Blanco,44.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Carne Molida Sirloin 90-10,210.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Bistec Diezmillo de Res,205.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Alto,Aguacate Hass,60.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Alto,Limón con semilla,28.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Guayaba,38.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Manzana Golden,50.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Manzana Starking,60.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Naranja mediana,20.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Papaya maradol,30.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Piña,30.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Plátano,20.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Sandía,20.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Calabacita Italiana,25.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Chile poblano,50.00
+755,12-18-2024,Mercados publicos,La Dalia,Alto,Chile serrano,42.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Alto,Cebolla bola,32.00
+755,12-18-2024,Mercados publicos,Martínez de la Torre,Alto,Chayote sin espina,32.00
+755,12-18-2024,CEDA,CEDA,Bajo,Aceite Mixto,
+755,12-18-2024,CEDA,CEDA,Bajo,Arroz largo,
+755,12-18-2024,CEDA,CEDA,Bajo,Azúcar Estándar,
+755,12-18-2024,CEDA,CEDA,Bajo,Harina de Trigo,
+755,12-18-2024,CEDA,CEDA,Bajo,Frijol Flor de Mayo,
+755,12-18-2024,CEDA,CEDA,Bajo,Frijol Negro,
+755,12-18-2024,CEDA,CEDA,Bajo,Huevo Blanco,
+755,12-18-2024,CEDA,CEDA,Bajo,Carne Molida Sirloin 90-10,
+755,12-18-2024,CEDA,CEDA,Bajo,Bistec Diezmillo de Res,
+755,12-18-2024,CEDA,CEDA,Bajo,Aguacate Hass,
+755,12-18-2024,CEDA,CEDA,Bajo,Limón con semilla,
+755,12-18-2024,CEDA,CEDA,Bajo,Guayaba,
+755,12-18-2024,CEDA,CEDA,Bajo,Manzana Golden,
+755,12-18-2024,CEDA,CEDA,Bajo,Manzana Starking,
+755,12-18-2024,CEDA,CEDA,Bajo,Naranja mediana,
+755,12-18-2024,CEDA,CEDA,Bajo,Papaya maradol,
+755,12-18-2024,CEDA,CEDA,Bajo,Piña,
+755,12-18-2024,CEDA,CEDA,Bajo,Plátano,
+755,12-18-2024,CEDA,CEDA,Bajo,Sandía,
+755,12-18-2024,CEDA,CEDA,Bajo,Calabacita Italiana,
+755,12-18-2024,CEDA,CEDA,Bajo,Chile poblano,
+755,12-18-2024,CEDA,CEDA,Bajo,Chile serrano,
+755,12-18-2024,CEDA,CEDA,Bajo,Cebolla bola,
+755,12-18-2024,CEDA,CEDA,Bajo,Chayote sin espina,
+755,12-18-2024,CEDA,CEDA,Alto,Aceite Mixto,
+755,12-18-2024,CEDA,CEDA,Alto,Arroz largo,
+755,12-18-2024,CEDA,CEDA,Alto,Azúcar Estándar,
+755,12-18-2024,CEDA,CEDA,Alto,Harina de Trigo,
+755,12-18-2024,CEDA,CEDA,Alto,Frijol Flor de Mayo,
+755,12-18-2024,CEDA,CEDA,Alto,Frijol Negro,
+755,12-18-2024,CEDA,CEDA,Alto,Huevo Blanco,
+755,12-18-2024,CEDA,CEDA,Alto,Carne Molida Sirloin 90-10,
+755,12-18-2024,CEDA,CEDA,Alto,Bistec Diezmillo de Res,
+755,12-18-2024,CEDA,CEDA,Alto,Aguacate Hass,
+755,12-18-2024,CEDA,CEDA,Alto,Limón con semilla,
+755,12-18-2024,CEDA,CEDA,Alto,Guayaba,
+755,12-18-2024,CEDA,CEDA,Alto,Manzana Golden,
+755,12-18-2024,CEDA,CEDA,Alto,Manzana Starking,
+755,12-18-2024,CEDA,CEDA,Alto,Naranja mediana,
+755,12-18-2024,CEDA,CEDA,Alto,Papaya maradol,
+755,12-18-2024,CEDA,CEDA,Alto,Piña,
+755,12-18-2024,CEDA,CEDA,Alto,Plátano,
+755,12-18-2024,CEDA,CEDA,Alto,Sandía,
+755,12-18-2024,CEDA,CEDA,Alto,Calabacita Italiana,
+755,12-18-2024,CEDA,CEDA,Alto,Chile poblano,
+755,12-18-2024,CEDA,CEDA,Alto,Chile serrano,
+755,12-18-2024,CEDA,CEDA,Alto,Cebolla bola,
+755,12-18-2024,CEDA,CEDA,Alto,Chayote sin espina,
+756,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Jitomate Saladette,27.50
+756,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Lechuga romana,18.50
+756,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Papa alpha,33.90
+756,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Pepino,41.00
+756,12-18-2024,Tienda de autoservicio,Chedraui,Bajo,Tomate verde,49.00
+756,12-18-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Zanahoria mediana,18.90
+756,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Jitomate Saladette,54.00
+756,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Lechuga romana,29.90
+756,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Papa alpha,54.00
+756,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Pepino,46.90
+756,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Tomate verde,59.00
+756,12-18-2024,Tienda de autoservicio,Wal-mart,Alto,Zanahoria mediana,29.90
+756,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Jitomate Saladette,25.00
+756,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Lechuga romana,20.00
+756,12-18-2024,Mercados sobreruedas,Ruta 02,Bajo,Papa alpha,27.00
+756,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Pepino,20.00
+756,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Tomate verde,24.00
+756,12-18-2024,Mercados sobreruedas,Ruta 08,Bajo,Zanahoria mediana,10.00
+756,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Jitomate Saladette,40.00
+756,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Lechuga romana,25.00
+756,12-18-2024,Mercados sobreruedas,Ruta 08,Alto,Papa alpha,28.00
+756,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Pepino,35.00
+756,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Tomate verde,26.00
+756,12-18-2024,Mercados sobreruedas,Ruta 02,Alto,Zanahoria mediana,28.00
+756,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Jitomate Saladette,30.00
+756,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Lechuga romana,20.00
+756,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Papa alpha,26.00
+756,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Pepino,30.00
+756,12-18-2024,Mercados publicos,Martínez de la Torre,Bajo,Tomate verde,32.00
+756,12-18-2024,Mercados publicos,La Dalia,Bajo,Zanahoria mediana,15.00
+756,12-18-2024,Mercados publicos,La Dalia,Alto,Jitomate Saladette,30.00
+756,12-18-2024,Mercados publicos,La Dalia,Alto,Lechuga romana,20.00
+756,12-18-2024,Mercados publicos,La Dalia,Alto,Papa alpha,26.00
+756,12-18-2024,Mercados publicos,La Dalia,Alto,Pepino,30.00
+756,12-18-2024,Mercados publicos,La Dalia,Alto,Tomate verde,32.00
+756,12-18-2024,Mercados publicos,Martínez de la Torre,Alto,Zanahoria mediana,16.00
+756,12-18-2024,CEDA,CEDA,Bajo,Jitomate Saladette,
+756,12-18-2024,CEDA,CEDA,Bajo,Lechuga romana,
+756,12-18-2024,CEDA,CEDA,Bajo,Papa alpha,
+756,12-18-2024,CEDA,CEDA,Bajo,Pepino,
+756,12-18-2024,CEDA,CEDA,Bajo,Tomate verde,
+756,12-18-2024,CEDA,CEDA,Bajo,Zanahoria mediana,
+756,12-18-2024,CEDA,CEDA,Alto,Jitomate Saladette,
+756,12-18-2024,CEDA,CEDA,Alto,Lechuga romana,
+756,12-18-2024,CEDA,CEDA,Alto,Papa alpha,
+756,12-18-2024,CEDA,CEDA,Alto,Pepino,
+756,12-18-2024,CEDA,CEDA,Alto,Tomate verde,
+756,12-18-2024,CEDA,CEDA,Alto,Zanahoria mediana,
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Aceite Mixto,27.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Bajo,Arroz largo,18.00
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Azúcar Estándar,26.00
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Harina de Trigo,09.54
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Bajo,Frijol Flor de Mayo,45.00
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,0,23.00
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Huevo Blanco,37.00.00
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Carne Molida Sirloin 90-10,117.00.00
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Bistec Diezmillo de Res,189.00
+757,12-19-2024,Tienda de autoservicio,Wal-Mart,Bajo,Aguacate Hass,42.00
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Limón con semilla,24.90
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Guayaba,49.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Bajo,Manzana Golden,34.90
+757,12-19-2024,Tienda de autoservicio,Chedrahui,Bajo,Manzana Starking,32.50
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Naranja mediana,29.90
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Papaya maradol,39.90
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Piña,29.50
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Plátano,16.90
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Sandía,24.90
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Calabacita Italiana,32.90
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Chile poblano,49.90
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Chile serrano,38.90
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Cebolla bola,39.50
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Chayote sin espina,19.50
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Jitomate Saladette,39.90
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Lechuga romana,17.50
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Bajo,Papa alpha,36.90
+757,12-19-2024,Tienda de autoservicio,Chedraui,Bajo,Pepino,14.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Aceite Mixto,31.00
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Arroz largo,27.50
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Azúcar Estándar,36.00
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Harina de Trigo,18.00
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Frijol Flor de Mayo,46.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,0,45.00
+757,12-19-2024,Tienda de autoservicio,Chedraui,Alto,Huevo Blanco,55.00
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Carne Molida Sirloin 90-10,189.00
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Bistec Diezmillo de Res,206.50
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Aguacate Hass,89.80
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Limón con semilla,29.90
+757,12-19-2024,Tienda de autoservicio,Chedraui,Alto,Guayaba,63.00
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Golden,39.90
+757,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Manzana Starking,36.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Naranja mediana,34.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Papaya maradol,57.00
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Piña,40.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Plátano,24.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Sandía,28.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Calabacita Italiana,57.00
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Chile poblano,79.00
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Chile serrano,99.00
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Cebolla bola,66.00
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Chayote sin espina,44.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Jitomate Saladette,54.00
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Lechuga romana,31.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Papa alpha,46.90
+757,12-19-2024,Tienda de autoservicio,Wal-mart,Alto,Pepino,39.90
+757,12-19-2024,Mercados sobreruedas,,Bajo,Aceite Mixto,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Arroz largo,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Azúcar Estándar,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Harina de Trigo,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Frijol Flor de Mayo,
+757,12-19-2024,Mercados sobreruedas,,Bajo,0,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Huevo Blanco,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Carne Molida Sirloin 90-10,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Bistec Diezmillo de Res,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Aguacate Hass,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Limón con semilla,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Guayaba,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Manzana Golden,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Manzana Starking,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Naranja mediana,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Papaya maradol,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Piña,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Plátano,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Sandía,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Calabacita Italiana,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Chile poblano,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Chile serrano,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Cebolla bola,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Chayote sin espina,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Jitomate Saladette,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Lechuga romana,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Papa alpha,
+757,12-19-2024,Mercados sobreruedas,,Bajo,Pepino,
+757,12-19-2024,Mercados sobreruedas,,Alto,Aceite Mixto,
+757,12-19-2024,Mercados sobreruedas,,Alto,Arroz largo,
+757,12-19-2024,Mercados sobreruedas,,Alto,Azúcar Estándar,
+757,12-19-2024,Mercados sobreruedas,,Alto,Harina de Trigo,
+757,12-19-2024,Mercados sobreruedas,,Alto,Frijol Flor de Mayo,
+757,12-19-2024,Mercados sobreruedas,,Alto,0,
+757,12-19-2024,Mercados sobreruedas,,Alto,Huevo Blanco,
+757,12-19-2024,Mercados sobreruedas,,Alto,Carne Molida Sirloin 90-10,
+757,12-19-2024,Mercados sobreruedas,,Alto,Bistec Diezmillo de Res,
+757,12-19-2024,Mercados sobreruedas,,Alto,Aguacate Hass,
+757,12-19-2024,Mercados sobreruedas,,Alto,Limón con semilla,
+757,12-19-2024,Mercados sobreruedas,,Alto,Guayaba,
+757,12-19-2024,Mercados sobreruedas,,Alto,Manzana Golden,
+757,12-19-2024,Mercados sobreruedas,,Alto,Manzana Starking,
+757,12-19-2024,Mercados sobreruedas,,Alto,Naranja mediana,
+757,12-19-2024,Mercados sobreruedas,,Alto,Papaya maradol,
+757,12-19-2024,Mercados sobreruedas,,Alto,Piña,
+757,12-19-2024,Mercados sobreruedas,,Alto,Plátano,
+757,12-19-2024,Mercados sobreruedas,,Alto,Sandía,
+757,12-19-2024,Mercados sobreruedas,,Alto,Calabacita Italiana,
+757,12-19-2024,Mercados sobreruedas,,Alto,Chile poblano,
+757,12-19-2024,Mercados sobreruedas,,Alto,Chile serrano,
+757,12-19-2024,Mercados sobreruedas,,Alto,Cebolla bola,
+757,12-19-2024,Mercados sobreruedas,,Alto,Chayote sin espina,
+757,12-19-2024,Mercados sobreruedas,,Alto,Jitomate Saladette,
+757,12-19-2024,Mercados sobreruedas,,Alto,Lechuga romana,
+757,12-19-2024,Mercados sobreruedas,,Alto,Papa alpha,
+757,12-19-2024,Mercados sobreruedas,,Alto,Pepino,
+757,12-19-2024,Mercados publicos,Casas Alemán,Bajo,Aceite Mixto,50.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Bajo,Arroz largo,22.00
+757,12-19-2024,Mercados publicos,Mercado Juárez,Bajo,Azúcar Estándar,30.00
+757,12-19-2024,Mercados publicos,Bugambilia,Bajo,Harina de Trigo,28.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Bajo,Frijol Flor de Mayo,45.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Bajo,0,45.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Bajo,Huevo Blanco,42.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Carne Molida Sirloin 90-10,190.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Bistec Diezmillo de Res,170.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Aguacate Hass,48.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Limón con semilla,20.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Guayaba,28.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Manzana Golden,50.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Manzana Starking,50.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Naranja mediana,35.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Papaya maradol,35.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Piña,35.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Plátano,20.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Sandía,35.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Calabacita Italiana,26.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Chile poblano,50.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Chile serrano,40.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Cebolla bola,30.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Chayote sin espina,30.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Bajo,Jitomate Saladette,35.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Lechuga romana,20.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Papa alpha,26.00
+757,12-19-2024,Mercados publicos,Juárez,Bajo,Pepino,35.00
+757,12-19-2024,Mercados publicos,Bugambilia,Alto,Aceite Mixto,50.00
+757,12-19-2024,Mercados publicos,Bugambilia,Alto,Arroz largo,22.00
+757,12-19-2024,Mercados publicos,Bugambilia,Alto,Azúcar Estándar,32.00
+757,12-19-2024,Mercados publicos,Juárez,Alto,Harina de Trigo,28.00
+757,12-19-2024,Mercados publicos,Bugambilia,Alto,Frijol Flor de Mayo,45.00
+757,12-19-2024,Mercados publicos,Bugambilia,Alto,0,45.00
+757,12-19-2024,Mercados publicos,Bugambilia,Alto,Huevo Blanco,42.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Carne Molida Sirloin 90-10,210.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Bistec Diezmillo de Res,200.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Aguacate Hass,50.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Limón con semilla,28.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Guayaba,30.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Manzana Golden,50.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Manzana Starking,60.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Naranja mediana,35.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Papaya maradol,35.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Piña,35.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Plátano,20.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Sandía,25.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Calabacita Italiana,26.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Chile poblano,50.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Chile serrano,40.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Cebolla bola,30.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Chayote sin espina,30.00
+757,12-19-2024,Mercados publicos,Juárez,Alto,Jitomate Saladette,40.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Lechuga romana,20.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Papa alpha,26.00
+757,12-19-2024,Mercados publicos,Casas Alemán,Alto,Pepino,35.00
+757,12-19-2024,CEDA,CEDA,Bajo,Aceite Mixto,
+757,12-19-2024,CEDA,CEDA,Bajo,Arroz largo,
+757,12-19-2024,CEDA,CEDA,Bajo,Azúcar Estándar,
+757,12-19-2024,CEDA,CEDA,Bajo,Harina de Trigo,
+757,12-19-2024,CEDA,CEDA,Bajo,Frijol Flor de Mayo,
+757,12-19-2024,CEDA,CEDA,Bajo,0,
+757,12-19-2024,CEDA,CEDA,Bajo,Huevo Blanco,
+757,12-19-2024,CEDA,CEDA,Bajo,Carne Molida Sirloin 90-10,
+757,12-19-2024,CEDA,CEDA,Bajo,Bistec Diezmillo de Res,
+757,12-19-2024,CEDA,CEDA,Bajo,Aguacate Hass,
+757,12-19-2024,CEDA,CEDA,Bajo,Limón con semilla,
+757,12-19-2024,CEDA,CEDA,Bajo,Guayaba,
+757,12-19-2024,CEDA,CEDA,Bajo,Manzana Golden,
+757,12-19-2024,CEDA,CEDA,Bajo,Manzana Starking,
+757,12-19-2024,CEDA,CEDA,Bajo,Naranja mediana,
+757,12-19-2024,CEDA,CEDA,Bajo,Papaya maradol,
+757,12-19-2024,CEDA,CEDA,Bajo,Piña,
+757,12-19-2024,CEDA,CEDA,Bajo,Plátano,
+757,12-19-2024,CEDA,CEDA,Bajo,Sandía,
+757,12-19-2024,CEDA,CEDA,Bajo,Calabacita Italiana,
+757,12-19-2024,CEDA,CEDA,Bajo,Chile poblano,
+757,12-19-2024,CEDA,CEDA,Bajo,Chile serrano,
+757,12-19-2024,CEDA,CEDA,Bajo,Cebolla bola,
+757,12-19-2024,CEDA,CEDA,Bajo,Chayote sin espina,
+757,12-19-2024,CEDA,CEDA,Bajo,Jitomate Saladette,
+757,12-19-2024,CEDA,CEDA,Bajo,Lechuga romana,
+757,12-19-2024,CEDA,CEDA,Bajo,Papa alpha,
+757,12-19-2024,CEDA,CEDA,Bajo,Pepino,
+757,12-19-2024,CEDA,CEDA,Alto,Aceite Mixto,
+757,12-19-2024,CEDA,CEDA,Alto,Arroz largo,
+757,12-19-2024,CEDA,CEDA,Alto,Azúcar Estándar,
+757,12-19-2024,CEDA,CEDA,Alto,Harina de Trigo,
+757,12-19-2024,CEDA,CEDA,Alto,Frijol Flor de Mayo,
+757,12-19-2024,CEDA,CEDA,Alto,0,
+757,12-19-2024,CEDA,CEDA,Alto,Huevo Blanco,
+757,12-19-2024,CEDA,CEDA,Alto,Carne Molida Sirloin 90-10,
+757,12-19-2024,CEDA,CEDA,Alto,Bistec Diezmillo de Res,
+757,12-19-2024,CEDA,CEDA,Alto,Aguacate Hass,
+757,12-19-2024,CEDA,CEDA,Alto,Limón con semilla,
+757,12-19-2024,CEDA,CEDA,Alto,Guayaba,
+757,12-19-2024,CEDA,CEDA,Alto,Manzana Golden,
+757,12-19-2024,CEDA,CEDA,Alto,Manzana Starking,
+757,12-19-2024,CEDA,CEDA,Alto,Naranja mediana,
+757,12-19-2024,CEDA,CEDA,Alto,Papaya maradol,
+757,12-19-2024,CEDA,CEDA,Alto,Piña,
+757,12-19-2024,CEDA,CEDA,Alto,Plátano,
+757,12-19-2024,CEDA,CEDA,Alto,Sandía,
+757,12-19-2024,CEDA,CEDA,Alto,Calabacita Italiana,
+757,12-19-2024,CEDA,CEDA,Alto,Chile poblano,
+757,12-19-2024,CEDA,CEDA,Alto,Chile serrano,
+757,12-19-2024,CEDA,CEDA,Alto,Cebolla bola,
+757,12-19-2024,CEDA,CEDA,Alto,Chayote sin espina,
+757,12-19-2024,CEDA,CEDA,Alto,Jitomate Saladette,
+757,12-19-2024,CEDA,CEDA,Alto,Lechuga romana,
+757,12-19-2024,CEDA,CEDA,Alto,Papa alpha,
+757,12-19-2024,CEDA,CEDA,Alto,Pepino,
+758,12-19-2024,Tienda de autoservicio,Comercial,Bajo,Tomate verde,39.90
+758,12-19-2024,Tienda de autoservicio,Wal-Mart,Bajo,Zanahoria mediana,13.9
+758,12-19-2024,Tienda de autoservicio,Wal-Mart,Alto,Tomate verde,59.00
+758,12-19-2024,Tienda de autoservicio,Comercial Mexicana,Alto,Zanahoria mediana,15.90
+758,12-19-2024,Mercados sobreruedas,,Bajo,Tomate verde,
+758,12-19-2024,Mercados sobreruedas,,Bajo,Zanahoria mediana,
+758,12-19-2024,Mercados sobreruedas,,Alto,Tomate verde,
+758,12-19-2024,Mercados sobreruedas,,Alto,Zanahoria mediana,
+758,12-19-2024,Mercados publicos,Casas Alemán,Bajo,Tomate verde,34.00
+758,12-19-2024,Mercados publicos,Juárez,Bajo,Zanahoria mediana,20.00
+758,12-19-2024,Mercados publicos,Juárez,Alto,Tomate verde,36.00
+758,12-19-2024,Mercados publicos,Casas Alemán,Alto,Zanahoria mediana,20.00
+758,12-19-2024,CEDA,CEDA,Bajo,Tomate verde,
+758,12-19-2024,CEDA,CEDA,Bajo,Zanahoria mediana,
+758,12-19-2024,CEDA,CEDA,Alto,Tomate verde,
+758,12-19-2024,CEDA,CEDA,Alto,Zanahoria mediana,
