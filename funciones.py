@@ -3,6 +3,28 @@ import fitz
 import locale
 from datetime import datetime
 import numpy as np
+import pdfplumber
+
+def tables_extraction(path ,pages: list ,snap : float):
+    """
+    Extrae las tablas de la ruta y devuelve una lista con las tablas convertidas en DataFrame
+    """
+    tables = []
+    with pdfplumber.open(path, pages = pages, repair= True) as data:
+        for page in data.pages:
+            tables_on_page = page.extract_tables({
+            "vertical_strategy": "lines",
+            "horizontal_strategy": "lines",
+            "intersection_x_tolerance": 3,
+            "intersection_y_tolerance": 3,
+            "snap_y_tolerance" : snap
+            })
+            if tables_on_page:
+                for table in tables_on_page:
+                    if table:
+                        tables.append(pd.DataFrame(table))
+    return tables
+
 
 def fecha(pdf,n_pagina):
     """
